@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Sandstone_Boulder_vmkefai.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryDpR.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Sandstone_Boulder_vmkefai/T_Sandstone_Boulder_vmkefai_2K_D.dds"
+                }
+            },
+            {
+                "key": "gMetallic",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Sandstone_Boulder_vmkefai/T_Sandstone_Boulder_vmkefai_2K_N.dds"
+                }
+            },
+            {
+                "key": "gDpR",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Sandstone_Boulder_vmkefai/T_SandstoneBoulder_vmkefai_2K_DpR.dds"
+                }
+            }
+        ]
+    }
+}

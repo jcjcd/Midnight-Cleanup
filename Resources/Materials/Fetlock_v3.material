@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Fetlock_v3.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/Dirty_object_textures/mop/mop_V3/T_Mop_L_MI_Fetlock_01_v3_BaseColor.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/Dirty_object_textures/mop/mop_V3/T_Mop_L_MI_Fetlock_01_v3_Normal.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/Dirty_object_textures/mop/mop_V3/T_Mop_L_MI_Fetlock_01_v3_OcclusionRoughnessMetallic.dds"
+                }
+            }
+        ]
+    }
+}

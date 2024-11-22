@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_Sticker.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORMNoNMask.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gEmissive",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            },
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Sticker/T_Sticker_BaseColor.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Sticker/T_Sticker_OcclusionRoughnessMetallic.dds"
+                }
+            },
+            {
+                "key": "gMask",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Sticker/T_Sticker_Mask.dds"
+                }
+            }
+        ]
+    }
+}

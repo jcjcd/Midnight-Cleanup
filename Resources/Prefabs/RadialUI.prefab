@@ -1,0 +1,1252 @@
+{
+    "value0": 165,
+    "value1": 158,
+    "value2": 135,
+    "value3": 1,
+    "value4": 1048578,
+    "value5": 3,
+    "value6": 4,
+    "value7": 5,
+    "value8": 6,
+    "value9": 7,
+    "value10": 8,
+    "value11": 9,
+    "value12": 10,
+    "value13": 11,
+    "value14": 12,
+    "value15": 13,
+    "value16": 14,
+    "value17": 15,
+    "value18": 16,
+    "value19": 17,
+    "value20": 18,
+    "value21": 19,
+    "value22": 20,
+    "value23": 21,
+    "value24": 22,
+    "value25": 23,
+    "value26": 24,
+    "value27": 25,
+    "value28": 26,
+    "value29": 27,
+    "value30": 28,
+    "value31": 29,
+    "value32": 30,
+    "value33": 31,
+    "value34": 32,
+    "value35": 33,
+    "value36": 34,
+    "value37": 35,
+    "value38": 36,
+    "value39": 37,
+    "value40": 38,
+    "value41": 39,
+    "value42": 40,
+    "value43": 41,
+    "value44": 42,
+    "value45": 43,
+    "value46": 44,
+    "value47": 45,
+    "value48": 46,
+    "value49": 47,
+    "value50": 48,
+    "value51": 49,
+    "value52": 50,
+    "value53": 51,
+    "value54": 52,
+    "value55": 53,
+    "value56": 54,
+    "value57": 55,
+    "value58": 56,
+    "value59": 57,
+    "value60": 58,
+    "value61": 59,
+    "value62": 60,
+    "value63": 61,
+    "value64": 62,
+    "value65": 63,
+    "value66": 64,
+    "value67": 65,
+    "value68": 66,
+    "value69": 67,
+    "value70": 68,
+    "value71": 69,
+    "value72": 70,
+    "value73": 71,
+    "value74": 72,
+    "value75": 73,
+    "value76": 74,
+    "value77": 75,
+    "value78": 76,
+    "value79": 77,
+    "value80": 78,
+    "value81": 79,
+    "value82": 80,
+    "value83": 81,
+    "value84": 82,
+    "value85": 83,
+    "value86": 84,
+    "value87": 85,
+    "value88": 86,
+    "value89": 87,
+    "value90": 88,
+    "value91": 89,
+    "value92": 90,
+    "value93": 91,
+    "value94": 92,
+    "value95": 93,
+    "value96": 94,
+    "value97": 95,
+    "value98": 96,
+    "value99": 97,
+    "value100": 98,
+    "value101": 99,
+    "value102": 100,
+    "value103": 101,
+    "value104": 102,
+    "value105": 103,
+    "value106": 104,
+    "value107": 105,
+    "value108": 106,
+    "value109": 107,
+    "value110": 108,
+    "value111": 109,
+    "value112": 110,
+    "value113": 111,
+    "value114": 112,
+    "value115": 113,
+    "value116": 114,
+    "value117": 115,
+    "value118": 116,
+    "value119": 117,
+    "value120": 118,
+    "value121": 119,
+    "value122": 120,
+    "value123": 121,
+    "value124": 122,
+    "value125": 123,
+    "value126": 124,
+    "value127": 125,
+    "value128": 126,
+    "value129": 127,
+    "value130": 128,
+    "value131": 129,
+    "value132": 130,
+    "value133": 131,
+    "value134": 132,
+    "value135": 133,
+    "value136": 134,
+    "value137": 1048576,
+    "value138": 136,
+    "value139": 137,
+    "value140": 138,
+    "value141": 1048725,
+    "value142": 1048717,
+    "value143": 1048718,
+    "value144": 1048719,
+    "value145": 1048720,
+    "value146": 1048721,
+    "value147": 1048722,
+    "value148": 1048723,
+    "value149": 1048724,
+    "value150": 1048716,
+    "value151": 1048715,
+    "value152": 150,
+    "value153": 1048727,
+    "value154": 152,
+    "value155": 162,
+    "value156": 154,
+    "value157": 160,
+    "value158": 156,
+    "value159": 158,
+    "value160": 1048733,
+    "value161": 1048731,
+    "value162": 2097311,
+    "value163": 1048737,
+    "value164": 2097305,
+    "value165": 1048740,
+    "value166": 2097315,
+    "struct core::Name": 12,
+    "value167": 1048725,
+    "value168": {
+        "name": "Radial UI"
+    },
+    "value169": 1048727,
+    "value170": {
+        "name": "Radial BG"
+    },
+    "value171": 150,
+    "value172": {
+        "name": "Tool Desc"
+    },
+    "value173": 1048715,
+    "value174": {
+        "name": "Arrow"
+    },
+    "value175": 1048716,
+    "value176": {
+        "name": "Tool Right"
+    },
+    "value177": 1048724,
+    "value178": {
+        "name": "Tool Left"
+    },
+    "value179": 1048723,
+    "value180": {
+        "name": "Tool Bottom"
+    },
+    "value181": 1048722,
+    "value182": {
+        "name": "Tool Top"
+    },
+    "value183": 1048720,
+    "value184": {
+        "name": "Inventory Bottom"
+    },
+    "value185": 1048719,
+    "value186": {
+        "name": "Inventory Top"
+    },
+    "value187": 1048718,
+    "value188": {
+        "name": "Inventory Right"
+    },
+    "value189": 1048717,
+    "value190": {
+        "name": "Inventory Left"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 12,
+    "value191": 1048725,
+    "value192": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value193": 1048727,
+    "value194": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0000001937626735e-9,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value195": 150,
+    "value196": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value197": 1048715,
+    "value198": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value199": 1048716,
+    "value200": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value201": 1048724,
+    "value202": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value203": 1048723,
+    "value204": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value205": 1048722,
+    "value206": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value207": 1048720,
+    "value208": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value209": 1048719,
+    "value210": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value211": 1048718,
+    "value212": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value213": 1048717,
+    "value214": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::WorldTransform": 12,
+    "value215": 1048725,
+    "value216": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value217": 1048727,
+    "value218": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0000001937626735e-9,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value219": 150,
+    "value220": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value221": 1048715,
+    "value222": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value223": 1048716,
+    "value224": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value225": 1048724,
+    "value226": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value227": 1048723,
+    "value228": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value229": 1048722,
+    "value230": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value231": 1048720,
+    "value232": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value233": 1048719,
+    "value234": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value235": 1048718,
+    "value236": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value237": 1048717,
+    "value238": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::Relationship": 12,
+    "value239": 1048725,
+    "value240": {
+        "parent": 4294967295,
+        "children": [
+            1048717,
+            1048718,
+            1048719,
+            1048720,
+            1048722,
+            1048723,
+            1048724,
+            1048716,
+            1048715,
+            150,
+            1048727
+        ]
+    },
+    "value241": 1048727,
+    "value242": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value243": 150,
+    "value244": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value245": 1048715,
+    "value246": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value247": 1048716,
+    "value248": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value249": 1048724,
+    "value250": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value251": 1048723,
+    "value252": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value253": 1048722,
+    "value254": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value255": 1048720,
+    "value256": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value257": 1048719,
+    "value258": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value259": 1048718,
+    "value260": {
+        "parent": 1048725,
+        "children": []
+    },
+    "value261": 1048717,
+    "value262": {
+        "parent": 1048725,
+        "children": []
+    },
+    "struct core::Rigidbody": 12,
+    "value263": 4294967295,
+    "value264": 4294967295,
+    "value265": 4294967295,
+    "value266": 4294967295,
+    "value267": 4294967295,
+    "value268": 4294967295,
+    "value269": 4294967295,
+    "value270": 4294967295,
+    "value271": 4294967295,
+    "value272": 4294967295,
+    "value273": 4294967295,
+    "value274": 4294967295,
+    "struct core::ColliderCommon": 12,
+    "value275": 4294967295,
+    "value276": 4294967295,
+    "value277": 4294967295,
+    "value278": 4294967295,
+    "value279": 4294967295,
+    "value280": 4294967295,
+    "value281": 4294967295,
+    "value282": 4294967295,
+    "value283": 4294967295,
+    "value284": 4294967295,
+    "value285": 4294967295,
+    "value286": 4294967295,
+    "struct core::BoxCollider": 12,
+    "value287": 4294967295,
+    "value288": 4294967295,
+    "value289": 4294967295,
+    "value290": 4294967295,
+    "value291": 4294967295,
+    "value292": 4294967295,
+    "value293": 4294967295,
+    "value294": 4294967295,
+    "value295": 4294967295,
+    "value296": 4294967295,
+    "value297": 4294967295,
+    "value298": 4294967295,
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 12,
+    "value299": 4294967295,
+    "value300": 4294967295,
+    "value301": 4294967295,
+    "value302": 4294967295,
+    "value303": 4294967295,
+    "value304": 4294967295,
+    "value305": 4294967295,
+    "value306": 4294967295,
+    "value307": 4294967295,
+    "value308": 4294967295,
+    "value309": 4294967295,
+    "value310": 4294967295,
+    "struct core::CharacterController": 12,
+    "value311": 4294967295,
+    "value312": 4294967295,
+    "value313": 4294967295,
+    "value314": 4294967295,
+    "value315": 4294967295,
+    "value316": 4294967295,
+    "value317": 4294967295,
+    "value318": 4294967295,
+    "value319": 4294967295,
+    "value320": 4294967295,
+    "value321": 4294967295,
+    "value322": 4294967295,
+    "struct core::Tag": 0,
+    "struct core::Layer": 0,
+    "struct core::MeshRenderer": 12,
+    "value323": 4294967295,
+    "value324": 4294967295,
+    "value325": 4294967295,
+    "value326": 4294967295,
+    "value327": 4294967295,
+    "value328": 4294967295,
+    "value329": 4294967295,
+    "value330": 4294967295,
+    "value331": 4294967295,
+    "value332": 4294967295,
+    "value333": 4294967295,
+    "value334": 4294967295,
+    "struct core::Decal": 0,
+    "struct core::Camera": 12,
+    "value335": 4294967295,
+    "value336": 4294967295,
+    "value337": 4294967295,
+    "value338": 4294967295,
+    "value339": 4294967295,
+    "value340": 4294967295,
+    "value341": 4294967295,
+    "value342": 4294967295,
+    "value343": 4294967295,
+    "value344": 4294967295,
+    "value345": 4294967295,
+    "value346": 4294967295,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 12,
+    "value347": 4294967295,
+    "value348": 4294967295,
+    "value349": 4294967295,
+    "value350": 4294967295,
+    "value351": 4294967295,
+    "value352": 4294967295,
+    "value353": 4294967295,
+    "value354": 4294967295,
+    "value355": 4294967295,
+    "value356": 4294967295,
+    "value357": 4294967295,
+    "value358": 4294967295,
+    "struct core::LightCommon": 12,
+    "value359": 4294967295,
+    "value360": 4294967295,
+    "value361": 4294967295,
+    "value362": 4294967295,
+    "value363": 4294967295,
+    "value364": 4294967295,
+    "value365": 4294967295,
+    "value366": 4294967295,
+    "value367": 4294967295,
+    "value368": 4294967295,
+    "value369": 4294967295,
+    "value370": 4294967295,
+    "struct core::DirectionalLight": 12,
+    "value371": 4294967295,
+    "value372": 4294967295,
+    "value373": 4294967295,
+    "value374": 4294967295,
+    "value375": 4294967295,
+    "value376": 4294967295,
+    "value377": 4294967295,
+    "value378": 4294967295,
+    "value379": 4294967295,
+    "value380": 4294967295,
+    "value381": 4294967295,
+    "value382": 4294967295,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UI": 12,
+    "value383": 4294967295,
+    "value384": 1048727,
+    "value385": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 700.0,
+            "y": 700.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "radial-menu_0010_BG.png"
+    },
+    "value386": 150,
+    "value387": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 700.0,
+            "y": 700.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "radial-menu__0004_txt_axe.png"
+    },
+    "value388": 1048715,
+    "value389": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 700.0,
+            "y": 700.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "radial-menu__0005_txt_arrow.png"
+    },
+    "value390": 1048716,
+    "value391": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 500.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 150.0,
+            "y": 150.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "icon_0000_Axe-2.png"
+    },
+    "value392": 1048724,
+    "value393": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": -500.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 150.0,
+            "y": 150.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "icon_0000_Axe-2.png"
+    },
+    "value394": 1048723,
+    "value395": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": -500.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 150.0,
+            "y": 150.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "icon_0000_Axe-2.png"
+    },
+    "value396": 1048722,
+    "value397": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 500.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 150.0,
+            "y": 150.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "icon_0000_Axe-2.png"
+    },
+    "value398": 1048720,
+    "value399": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 700.0,
+            "y": 700.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "radial-menu__0007_3.png"
+    },
+    "value400": 1048719,
+    "value401": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 700.0,
+            "y": 700.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "radial-menu__0009_1.png"
+    },
+    "value402": 1048718,
+    "value403": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 700.0,
+            "y": 700.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "radial-menu__0008_2.png"
+    },
+    "value404": 1048717,
+    "value405": {
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 700.0,
+            "y": 700.0
+        },
+        "isOn": true,
+        "layerDepth": 0,
+        "toolVPSize": {
+            "x": 1053.0,
+            "y": 720.0
+        },
+        "textureString": "radial-menu__0006_4.png"
+    },
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 0,
+    "struct core::RenderAttributes": 0,
+    "struct core::Sound": 0,
+    "struct core::SoundListener": 0,
+    "struct mc::CharacterMovement": 12,
+    "value406": 4294967295,
+    "value407": 4294967295,
+    "value408": 4294967295,
+    "value409": 4294967295,
+    "value410": 4294967295,
+    "value411": 4294967295,
+    "value412": 4294967295,
+    "value413": 4294967295,
+    "value414": 4294967295,
+    "value415": 4294967295,
+    "value416": 4294967295,
+    "value417": 4294967295,
+    "struct mc::Picking": 0,
+    "struct mc::RadialUI": 12,
+    "value418": 4294967295,
+    "value419": 1048727,
+    "value420": {
+        "type": 0
+    },
+    "value421": 150,
+    "value422": {
+        "type": 1
+    },
+    "value423": 1048715,
+    "value424": {
+        "type": 2
+    },
+    "value425": 1048716,
+    "value426": {
+        "type": 72
+    },
+    "value427": 1048724,
+    "value428": {
+        "type": 68
+    },
+    "value429": 1048723,
+    "value430": {
+        "type": 96
+    },
+    "value431": 1048722,
+    "value432": {
+        "type": 80
+    },
+    "value433": 1048720,
+    "value434": {
+        "type": 160
+    },
+    "value435": 1048719,
+    "value436": {
+        "type": 144
+    },
+    "value437": 1048718,
+    "value438": {
+        "type": 136
+    },
+    "value439": 1048717,
+    "value440": {
+        "type": 132
+    },
+    "struct mc::Tool": 0,
+    "struct mc::Inventory": 12,
+    "value441": 4294967295,
+    "value442": 4294967295,
+    "value443": 4294967295,
+    "value444": 4294967295,
+    "value445": 4294967295,
+    "value446": 4294967295,
+    "value447": 4294967295,
+    "value448": 4294967295,
+    "value449": 4294967295,
+    "value450": 4294967295,
+    "value451": 4294967295,
+    "value452": 4294967295,
+    "struct mc::RayCastingInfo": 0,
+    "struct mc::PivotSlot": 0,
+    "struct mc::Furniture": 0,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 0,
+    "struct mc::Stain": 0
+}

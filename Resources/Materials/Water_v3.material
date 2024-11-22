@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Water_v1.material",
+        "material.m_ShaderString": "./Shaders/DirtyWaterV2.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gReflectionMap",
+                "value": {
+                    "texturePair.Type": 9,
+                    "texturePair.Path": "./Resources/Textures/Default/DarkSky.dds"
+                }
+            },
+            {
+                "key": "NormalMap",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/water/seona_waterNormal2.dds"
+                }
+            },
+            {
+                "key": "RefractionMap",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultmagentapng.dds"
+                }
+            },
+            {
+                "key": "NormalMap2",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/water/water_H.dds"
+                }
+            }
+        ]
+    }
+}

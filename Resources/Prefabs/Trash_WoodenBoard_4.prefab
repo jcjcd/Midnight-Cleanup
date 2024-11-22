@@ -1,0 +1,184 @@
+{
+    "value0": 1,
+    "value1": 1,
+    "value2": 2097160,
+    "struct core::Name": 1,
+    "value3": 2097160,
+    "value4": {
+        "name": "Trash_WoodenBoard_4"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 1,
+    "value5": 2097160,
+    "value6": {
+        "position": {
+            "x": -6.055921630832018e-8,
+            "y": 1.0240628332304492e-18,
+            "z": 0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 8.742277657347586e-8,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::WorldTransform": 1,
+    "value7": 2097160,
+    "value8": {
+        "position": {
+            "x": -6.055921630832018e-8,
+            "y": 1.0240628332304492e-18,
+            "z": 0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 8.742277657347586e-8,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::Relationship": 1,
+    "value9": 4294967295,
+    "struct core::Rigidbody": 1,
+    "value10": 2097160,
+    "value11": {
+        "mass": 0.5,
+        "drag": 0.10000000149011612,
+        "angularDrag": 0.15000000596046449,
+        "useGravity": true,
+        "isKinematic": false,
+        "interpolation": 0,
+        "constraints": 0
+    },
+    "struct core::ColliderCommon": 1,
+    "value12": 2097160,
+    "value13": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material\\Trash_WoodenBoard.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "struct core::BoxCollider": 1,
+    "value14": 2097160,
+    "value15": {
+        "size": {
+            "x": 0.20000000298023225,
+            "y": 0.6000000238418579,
+            "z": 0.10999999940395355
+        }
+    },
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 1,
+    "value16": 4294967295,
+    "struct core::CharacterController": 0,
+    "struct core::Tag": 1,
+    "value17": 2097160,
+    "value18": {
+        "id": 3143877046
+    },
+    "struct core::Layer": 1,
+    "value19": 2097160,
+    "value20": {
+        "mask": 656
+    },
+    "struct core::MeshRenderer": 1,
+    "value21": 2097160,
+    "value22": {
+        "meshString": "SM_4trashboard",
+        "materialStrings": [
+            "./Resources/Materials/M_trashboard.material"
+        ],
+        "isOn": true,
+        "receiveShadow": true,
+        "isSkinned": false,
+        "isCulling": true,
+        "canReceivingDecal": true
+    },
+    "struct core::Decal": 0,
+    "struct core::Camera": 0,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 0,
+    "struct core::LightCommon": 1,
+    "value23": 4294967295,
+    "struct core::DirectionalLight": 1,
+    "value24": 4294967295,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 0,
+    "struct core::UI2D": 0,
+    "struct core::UI3D": 0,
+    "struct core::Text": 0,
+    "struct core::Button": 0,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 0,
+    "struct core::RenderAttributes": 1,
+    "value25": 2097160,
+    "value26": {
+        "flags": 0
+    },
+    "struct core::Sound": 1,
+    "value27": 2097160,
+    "value28": {
+        "path": "./Resources/Sound\\trash\\Drop_Wooden.wav",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "minDistance": 0.30000001192092898,
+        "maxDistance": 10000.0,
+        "isLoop": false,
+        "is3D": true,
+        "isPlaying": false
+    },
+    "struct core::SoundListener": 0,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct core::PostProcessingVolume": 0,
+    "struct mc::CharacterMovement": 0,
+    "struct mc::Picking": 0,
+    "struct mc::RadialUI": 0,
+    "struct mc::Tool": 0,
+    "struct mc::Inventory": 0,
+    "struct mc::RayCastingInfo": 0,
+    "struct mc::PivotSlot": 0,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 0,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 0,
+    "struct mc::DestroyableTrash": 1,
+    "value29": 2097160,
+    "value30": {
+        "inTrashBox": false,
+        "remainTime": 5.0
+    },
+    "struct mc::Room": 0,
+    "struct mc::DissolveRenderer": 0,
+    "struct mc::Door": 0,
+    "struct mc::Switch": 0,
+    "struct mc::Flashlight": 0,
+    "struct mc::TrashGenerator": 0,
+    "struct mc::Mop": 0,
+    "struct mc::Sponge": 0,
+    "struct mc::TVTimer": 0,
+    "struct mc::GameManager": 0,
+    "struct mc::GameSettingController": 0,
+    "struct mc::MopStainGenerator": 0,
+    "struct mc::SoundMaterial": 0
+}

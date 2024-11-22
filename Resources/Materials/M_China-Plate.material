@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_China-Plate.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryAO.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Kitchen_Dishes/T_china-plate_albedo.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Kitchen_Dishes/T_china-plate_normal.dds"
+                }
+            },
+            {
+                "key": "gAO",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Kitchen_Dishes/T_china-plate_ao.dds"
+                }
+            }
+        ]
+    }
+}

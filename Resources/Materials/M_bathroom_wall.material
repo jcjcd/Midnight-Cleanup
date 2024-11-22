@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_bathroom_wall.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/bathroom/T_bathroom_tex_test_L__BaseColor.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/bathroom/T_bathroom_tex_test_L__Normal.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/bathroom/T_bathroom_tex_test_L__OcclusionRoughnessMetallic.dds"
+                }
+            }
+        ]
+    }
+}

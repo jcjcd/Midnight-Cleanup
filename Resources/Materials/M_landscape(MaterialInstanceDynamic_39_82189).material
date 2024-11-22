@@ -1,0 +1,120 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Landscape.material",
+        "material.m_ShaderString": "./Shaders/DeferredGround.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "LayerBlend1",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/grassy_ground.dds"
+                }
+            },
+            {
+                "key": "LayerAlbedo3",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Forest_Floor_wdfhdcf/T_Forest_Floor_wdfhdcf_2K_D.dds"
+                }
+            },
+            {
+                "key": "LayerBlend2",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Rocky_Grassy.dds"
+                }
+            },
+            {
+                "key": "LayerBlend3",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Grass.dds"
+                }
+            },
+            {
+                "key": "LayerAlbedo1",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Jungle_Floor_wdjkeed/T_Jungle_Floor_wdjkeed_2K_D.dds"
+                }
+            },
+            {
+                "key": "LayerBlend4",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/grass_2.dds"
+                }
+            },
+            {
+                "key": "LayerAlbedo2",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Mossy_Ground_vjoefgo/T_Mossy_Ground_vjoefgo_2K_D.dds"
+                }
+            },
+            {
+                "key": "LayerAlbedo4",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Mossy_Ground_vjoefgo/T_Mossy_Ground_vjoefgo_2K_D.dds"
+                }
+            },
+            {
+                "key": "LayerNormal1",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Jungle_Floor_wdjkeed/T_Jungle_Floor_wdjkeed_2K_N.dds"
+                }
+            },
+            {
+                "key": "LayerNormal2",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Mossy_Forest_Rock_wdemcbi/T_Mossy_Forest_Rock_wdemcbi_2K_N.dds"
+                }
+            },
+            {
+                "key": "LayerNormal3",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Forest_Floor_wdfhdcf/T_Forest_Floor_wdfhdcf_2K_N.dds"
+                }
+            },
+            {
+                "key": "LayerNormal4",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Mossy_Ground_vjoefgo/T_Mossy_Ground_vjoefgo_2K_N.dds"
+                }
+            },
+            {
+                "key": "LayerORDp1",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Jungle_Floor_wdjkeed/T_JungleFloor_wdjkeed_2K_ORDp.dds"
+                }
+            },
+            {
+                "key": "LayerORDp2",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Mossy_Ground_vjoefgo/T_MossyGround_vjoefgo_2K_ORDp.dds"
+                }
+            },
+            {
+                "key": "LayerORDp3",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Forest_Floor_wdfhdcf/T_ForestFloor_wdfhdcf_2K_ORDp.dds"
+                }
+            },
+            {
+                "key": "LayerORDp4",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Surfaces/Mossy_Ground_vjoefgo/T_MossyGround_vjoefgo_2K_ORDp.dds"
+                }
+            }
+        ]
+    }
+}

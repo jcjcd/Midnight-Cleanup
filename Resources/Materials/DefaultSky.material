@@ -1,0 +1,15 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/DefaultSky.material",
+        "material.m_ShaderString": "./Shaders/Sky.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gCubeMap",
+                "value": {
+                    "texturePair.Type": 9,
+                    "texturePair.Path": "./Resources/Textures/Default/DarkSky.dds"
+                }
+            }
+        ]
+    }
+}

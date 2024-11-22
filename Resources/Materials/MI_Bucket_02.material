@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_Bucket.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/T_Bucket_02_D.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/T_Bucket_02_N.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/T_Bucket_02_AORM.dds"
+                }
+            }
+        ]
+    }
+}

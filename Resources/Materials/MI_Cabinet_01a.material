@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/MI_Cabinet_01a.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryRMAo.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/OldWest/Textures/TX_Cabinet_03a_ALB.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/OldWest/Textures/TX_Cabinet_03a_NRM.dds"
+                }
+            },
+            {
+                "key": "gRMA",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/OldWest/Shared/Textures/TX_Fill_01_RMA.dds"
+                }
+            },
+            {
+                "key": "gEmissive",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Core">
+      <UniqueIdentifier>{a6b470d1-31c8-441f-9dbe-17cd0f4eb21b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base">
+      <UniqueIdentifier>{e60e4edc-9f83-477c-a743-cd23ea2622fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\PhysX">
+      <UniqueIdentifier>{4ad1a571-52b5-4238-82c1-5dbe61b57ad0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Built-in">
+      <UniqueIdentifier>{eac016e4-7071-40fc-8e37-5e6e5d38961a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Built-in\Components">
+      <UniqueIdentifier>{b56eada9-0d77-4830-80d0-da46c5ea8812}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Built-in\Meta">
+      <UniqueIdentifier>{28e2277c-4f4f-4703-891a-bce37430e3ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Built-in\Systems">
+      <UniqueIdentifier>{7ce81c20-3d49-488d-8949-7f088a79e872}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\etc">
+      <UniqueIdentifier>{9cae7c7a-da56-4d12-939e-c0112317d1cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Built-in\Systems\src">
+      <UniqueIdentifier>{a1ecc8ae-aa9c-41ed-b772-b39e52310316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\etc\src">
+      <UniqueIdentifier>{c0e4f892-9c07-4de2-9823-ee1ef302cad0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Built-in\Systems\else">
+      <UniqueIdentifier>{2eb068db-aa31-42ab-9642-5a6cbb01d0c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Built-in\Components\else">
+      <UniqueIdentifier>{096dab60-5b35-4286-8a76-a5d6106336d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\src">
+      <UniqueIdentifier>{ab0c209a-3e58-423f-97fd-ee67fa19ba59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\PhysX\src">
+      <UniqueIdentifier>{352bd1a3-de0f-45e9-afb5-81d799c7cec3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\Animator">
+      <UniqueIdentifier>{6cad034e-ad2b-437f-ba8b-e084ee9465bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\Animator\src">
+      <UniqueIdentifier>{ed5ceb64-a439-44a9-b529-07b4886cd367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Process">
+      <UniqueIdentifier>{bb9030b7-0636-46f7-ad85-55d0b060ad2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Process\src">
+      <UniqueIdentifier>{c8fe1f7f-f141-40ac-9327-d70848a2f096}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\Importer">
+      <UniqueIdentifier>{7702dfde-e59e-4cfa-a63d-3860d83b3a3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\Importer\src">
+      <UniqueIdentifier>{91249899-7a5e-48ef-a248-ffcbbd0d41e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\NavMesh">
+      <UniqueIdentifier>{83467d4c-0285-4edc-87bb-4e872f92606e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Core\Base\NavMesh\src">
+      <UniqueIdentifier>{6d084154-952c-4b34-862a-6db7d1e42924}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\RenderPasses">
+      <UniqueIdentifier>{48d096f3-c6d0-4595-a0c1-8d0b4c20a822}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CollisionCallback.h">
+      <Filter>소스 파일\Core\Base\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsScene.h">
+      <Filter>소스 파일\Core\Base\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreComponents.h">
+      <Filter>소스 파일\Core\Built-in\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="CorePhysicsComponents.h">
+      <Filter>소스 파일\Core\Built-in\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreTagsAndLayers.h">
+      <Filter>소스 파일\Core\Built-in\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>소스 파일\Core\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>소스 파일\Core\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>소스 파일\Core\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="MetaCtxs.h">
+      <Filter>소스 파일\Core\Built-in\Meta</Filter>
+    </ClInclude>
+    <ClInclude Include="MetaFuncs.h">
+      <Filter>소스 파일\Core\Built-in\Meta</Filter>
+    </ClInclude>
+    <ClInclude Include="PxUtils.h">
+      <Filter>소스 파일\Core\Base\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="RaycastHit.h">
+      <Filter>소스 파일\Core\Base\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderSystems.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderComponents.h">
+      <Filter>소스 파일\Core\Built-in\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>소스 파일\Core\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="MetaHelpers.h">
+      <Filter>소스 파일\Core\Built-in\Meta</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreProcess.h">
+      <Filter>소스 파일\Core\Process</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreSystemEvents.h">
+      <Filter>소스 파일\Core\Built-in\Systems\else</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemTemplates.h">
+      <Filter>소스 파일\Core\Built-in\Systems\else</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemTraits.h">
+      <Filter>소스 파일\Core\Built-in\Systems\else</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInterface.h">
+      <Filter>소스 파일\Core\Built-in\Systems\else</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentTemplates.h">
+      <Filter>소스 파일\Core\Built-in\Components\else</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="LightStructure.h">
+      <Filter>소스 파일\Core\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorParameter.h">
+      <Filter>소스 파일\Core\Base\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorState.h">
+      <Filter>소스 파일\Core\Base\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorCondition.h">
+      <Filter>소스 파일\Core\Base\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorTransition.h">
+      <Filter>소스 파일\Core\Base\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorController.h">
+      <Filter>소스 파일\Core\Base\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorMeta.h">
+      <Filter>소스 파일\Core\Base\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="PxResources.h">
+      <Filter>소스 파일\Core\Base\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreSerialize.h">
+      <Filter>소스 파일\Core\Built-in\Components\else</Filter>
+    </ClInclude>
+    <ClInclude Include="EnumHelper.h">
+      <Filter>소스 파일\Core\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="TagAndLayerHelpers.h">
+      <Filter>소스 파일\Core\Built-in\Components\else</Filter>
+    </ClInclude>
+    <ClInclude Include="Importer.h">
+      <Filter>소스 파일\Core\Base\Importer</Filter>
+    </ClInclude>
+    <ClInclude Include="SerializeHelper.h">
+      <Filter>소스 파일\Core\Built-in\Components\else</Filter>
+    </ClInclude>
+    <ClInclude Include="NavMeshBuilder.h">
+      <Filter>소스 파일\Core\Base\NavMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="NavConfigs.h">
+      <Filter>소스 파일\Core\Base\NavMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Macros.h">
+      <Filter>소스 파일\Core\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFindingSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleStructures.h">
+      <Filter>소스 파일\Core\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonEvent.h">
+      <Filter>소스 파일\Core\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="PreRenderSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="PostRenderSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="RaytraceRenderSystem.h">
+      <Filter>소스 파일\Core\Built-in\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystemPass.h">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClInclude>
+    <ClInclude Include="OITPass.h">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClInclude>
+    <ClInclude Include="DeferredShadePass.h">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClInclude>
+    <ClInclude Include="BloomPass.h">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClInclude>
+    <ClInclude Include="FreeFlyCameraSystem.h">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerTestSystem.h">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="InputSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderSystems.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="CoreProcess.cpp">
+      <Filter>소스 파일\Core\Process\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>소스 파일\Core\etc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일\Core\etc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>소스 파일\Core\Base\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>소스 파일\Core\Base\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsScene.cpp">
+      <Filter>소스 파일\Core\Base\PhysX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PxUtils.cpp">
+      <Filter>소스 파일\Core\Base\PhysX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionCallback.cpp">
+      <Filter>소스 파일\Core\Base\PhysX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatorSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatorState.cpp">
+      <Filter>소스 파일\Core\Base\Animator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatorController.cpp">
+      <Filter>소스 파일\Core\Base\Animator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatorCondition.cpp">
+      <Filter>소스 파일\Core\Base\Animator\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PxResources.cpp">
+      <Filter>소스 파일\Core\Base\PhysX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerTestSystem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Importer.cpp">
+      <Filter>소스 파일\Core\Base\Importer\src</Filter>
+    </ClCompile>
+    <ClCompile Include="NavMeshBuilder.cpp">
+      <Filter>소스 파일\Core\Base\NavMesh\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFindingSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleStructures.cpp">
+      <Filter>소스 파일\Core\etc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PreRenderSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PostRenderSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="RaytraceRenderSystem.cpp">
+      <Filter>소스 파일\Core\Built-in\Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="FreeFlyCameraSystem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystemPass.cpp">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClCompile>
+    <ClCompile Include="OITPass.cpp">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClCompile>
+    <ClCompile Include="DeferredShadePass.cpp">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClCompile>
+    <ClCompile Include="BloomPass.cpp">
+      <Filter>소스 파일\RenderPasses</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

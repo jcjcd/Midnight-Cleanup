@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\etc">
+      <UniqueIdentifier>{957ddcb4-e00f-476f-a1bb-2a4959ffd8dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Process">
+      <UniqueIdentifier>{655ebcab-284b-443b-90e9-8fde44fbdca9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Panels">
+      <UniqueIdentifier>{07aad669-9c66-4d6a-9c1d-26d509930848}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Events">
+      <UniqueIdentifier>{e7282a96-24ef-4801-a358-5ab0ebbf78b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImGuiBackends">
+      <UniqueIdentifier>{d134bb9f-686d-4a2c-a124-5e18a1d88fe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Panels\Inspector Subs">
+      <UniqueIdentifier>{dbb172af-ec92-45c0-b0b9-b1ee0c253737}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Panels\Inspector Subs\src">
+      <UniqueIdentifier>{ba2a60af-bc4a-48bf-a936-9189672f18ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Panels\src">
+      <UniqueIdentifier>{cd9672f0-d2e5-4171-a865-bb7cd4792d37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Process\src">
+      <UniqueIdentifier>{0fe04aac-aea5-483f-b368-b686f73f82cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>소스 파일\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>소스 파일\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolProcess.h">
+      <Filter>소스 파일\Process</Filter>
+    </ClInclude>
+    <ClInclude Include="Hierarchy.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolEvents.h">
+      <Filter>소스 파일\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuBar.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="Inspector.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="Project.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_dx12.h">
+      <Filter>ImGuiBackends</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="Panel.h">
+      <Filter>소스 파일\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneViewNavBar.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorPanel.h">
+      <Filter>소스 파일\Panels</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicMaterialPanel.h">
+      <Filter>소스 파일\Panels\Inspector Subs</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialPanel.h">
+      <Filter>소스 파일\Panels\Inspector Subs</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorElements.h">
+      <Filter>소스 파일\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorDataPanel.h">
+      <Filter>소스 파일\Panels\Inspector Subs</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentDataPanel.h">
+      <Filter>소스 파일\Panels\Inspector Subs</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_dx12.cpp">
+      <Filter>ImGuiBackends</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatorDataPanel.cpp">
+      <Filter>소스 파일\Panels\Inspector Subs\src</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentDataPanel.cpp">
+      <Filter>소스 파일\Panels\Inspector Subs\src</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialPanel.cpp">
+      <Filter>소스 파일\Panels\Inspector Subs\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicMaterialPanel.cpp">
+      <Filter>소스 파일\Panels\Inspector Subs\src</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatorPanel.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Hierarchy.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Inspector.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuBar.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Project.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneViewNavBar.cpp">
+      <Filter>소스 파일\Panels\src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\Process\src</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolProcess.cpp">
+      <Filter>소스 파일\Process\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Animatool.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Animatool.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

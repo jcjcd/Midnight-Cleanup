@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_Woodcarving.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/livingroom/Woodcarving/T_Woodcarving_BaseColor.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/livingroom/Woodcarving/T_Woodcarving_Normal.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/livingroom/Woodcarving/T_Woodcarving_OcclusionRoughnessMetallic.dds"
+                }
+            }
+        ]
+    }
+}

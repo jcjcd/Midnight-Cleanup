@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Decal/Decal_Sponge_Group_05.material",
+        "material.m_ShaderString": "./Shaders/ssSpongedecal_CS.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Sponge_Decal/T_SpongeDecal_Group_05.dds"
+                }
+            },
+            {
+                "key": "gNormalTexture",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultmagentapng.dds"
+                }
+            },
+            {
+                "key": "gDepthTexture",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultmagentapng.dds"
+                }
+            }
+        ]
+    }
+}

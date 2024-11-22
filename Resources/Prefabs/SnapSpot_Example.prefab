@@ -1,0 +1,164 @@
+{
+    "value0": 1,
+    "value1": 1,
+    "value2": 2097163,
+    "struct core::Name": 1,
+    "value3": 2097163,
+    "value4": {
+        "name": "Snap Spot"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 1,
+    "value5": 2097163,
+    "value6": {
+        "position": {
+            "x": 0.0,
+            "y": 0.2564387023448944,
+            "z": -7.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::WorldTransform": 1,
+    "value7": 2097163,
+    "value8": {
+        "position": {
+            "x": 0.0,
+            "y": 0.2564387023448944,
+            "z": -7.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::Relationship": 1,
+    "value9": 4294967295,
+    "struct core::Rigidbody": 1,
+    "value10": 4294967295,
+    "struct core::ColliderCommon": 1,
+    "value11": 2097163,
+    "value12": {
+        "isTrigger": true,
+        "materialName": "./Resources/Physic Material\\default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "struct core::BoxCollider": 1,
+    "value13": 2097163,
+    "value14": {
+        "size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 1,
+    "value15": 4294967295,
+    "struct core::CharacterController": 1,
+    "value16": 4294967295,
+    "struct core::Tag": 1,
+    "value17": 2097163,
+    "value18": {
+        "id": 4893395
+    },
+    "struct core::Layer": 1,
+    "value19": 2097163,
+    "value20": {
+        "mask": 272
+    },
+    "struct core::MeshRenderer": 1,
+    "value21": 2097163,
+    "value22": {
+        "meshString": "SM_Bucket_02",
+        "materialStrings": [
+            "./Resources/Materials/Hologram.material"
+        ],
+        "isOn": true,
+        "receiveShadow": false,
+        "isSkinned": false,
+        "isCulling": true,
+        "canReceivingDecal": true
+    },
+    "struct core::Decal": 0,
+    "struct core::Camera": 1,
+    "value23": 4294967295,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 1,
+    "value24": 4294967295,
+    "struct core::LightCommon": 1,
+    "value25": 4294967295,
+    "struct core::DirectionalLight": 1,
+    "value26": 4294967295,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 1,
+    "value27": 4294967295,
+    "struct core::UI2D": 1,
+    "value28": 4294967295,
+    "struct core::UI3D": 0,
+    "struct core::Text": 1,
+    "value29": 4294967295,
+    "struct core::Button": 0,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 1,
+    "value30": 4294967295,
+    "struct core::RenderAttributes": 1,
+    "value31": 2097163,
+    "value32": {
+        "flags": 8
+    },
+    "struct core::Sound": 1,
+    "value33": 4294967295,
+    "struct core::SoundListener": 1,
+    "value34": 4294967295,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct mc::CharacterMovement": 1,
+    "value35": 4294967295,
+    "struct mc::Picking": 1,
+    "value36": 4294967295,
+    "struct mc::RadialUI": 1,
+    "value37": 4294967295,
+    "struct mc::Tool": 1,
+    "value38": 4294967295,
+    "struct mc::Inventory": 1,
+    "value39": 4294967295,
+    "struct mc::RayCastingInfo": 1,
+    "value40": 4294967295,
+    "struct mc::PivotSlot": 1,
+    "value41": 4294967295,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 1,
+    "value42": 4294967295,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 1,
+    "value43": 4294967295,
+    "struct mc::DestroyableTrash": 1,
+    "value44": 4294967295
+}

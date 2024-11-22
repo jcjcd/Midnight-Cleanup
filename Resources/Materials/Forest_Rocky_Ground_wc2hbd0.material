@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Forest_Rocky_Ground_wc2hbd0.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryDpR.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gMetallic",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            },
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Forest_Rocky_Ground_wc2hbd0/T_Forest_Rocky_Ground_wc2hbd0_2K_D.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Forest_Rocky_Ground_wc2hbd0/T_Forest_Rocky_Ground_wc2hbd0_2K_N.dds"
+                }
+            },
+            {
+                "key": "gDpR",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Forest_Rocky_Ground_wc2hbd0/T_ForestRockyGround_wc2hbd0_2K_DpRF.dds"
+                }
+            }
+        ]
+    }
+}

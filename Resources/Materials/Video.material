@@ -1,0 +1,15 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Video.material",
+        "material.m_ShaderString": "./Shaders/quadVideo.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "txYUV",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultmagentapng.dds"
+                }
+            }
+        ]
+    }
+}

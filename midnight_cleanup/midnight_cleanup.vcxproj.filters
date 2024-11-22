@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="etc">
+      <UniqueIdentifier>{58146bbb-57e3-48cf-b06a-5d302b49b050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="process">
+      <UniqueIdentifier>{0db9b510-30af-4d0e-82a2-36b4d9e4a75a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="etc\src">
+      <UniqueIdentifier>{7c18318f-cf26-4e05-85f8-4e0f22091750}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="process\src">
+      <UniqueIdentifier>{8a43ccf4-361a-4ce5-93f9-57107a91a084}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems">
+      <UniqueIdentifier>{b7dc29c3-8986-4337-b42d-a62cac8b26d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Meta">
+      <UniqueIdentifier>{1410ced4-8bff-4c54-b463-b0dd44ea2672}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems\src">
+      <UniqueIdentifier>{bed6a8ac-5055-4d5c-9146-9c5d0d88d441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{1aecd87c-74a7-4754-8785-5955793671d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>etc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="McProcess.cpp">
+      <Filter>process\src</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterMovementSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="PickingSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="InventorySystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterActionSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="FurnitureDiscardingSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeLimitSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="McCallback.cpp">
+      <Filter>etc\src</Filter>
+    </ClCompile>
+    <ClCompile Include="TrashSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="DropSoundSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="InGameUISystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomRenderSystem.cpp" />
+    <ClCompile Include="RoomEnterSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="IngameLightSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomGeneratorSystem.cpp">
+      <Filter>Systems\src</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSettingSystem.cpp" />
+    <ClCompile Include="BucketTillingSystem.cpp" />
+    <ClCompile Include="CreditSceneSystem.cpp" />
+    <ClCompile Include="BGMSystem.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="McProcess.h">
+      <Filter>process</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>etc</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterMovementSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="McMetaFuncs.h">
+      <Filter>Meta</Filter>
+    </ClInclude>
+    <ClInclude Include="McComponents.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="McSerialize.h">
+      <Filter>Meta</Filter>
+    </ClInclude>
+    <ClInclude Include="PickingSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="InventorySystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterActionSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="FurnitureDiscardingSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeLimitSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="McCallback.h">
+      <Filter>etc</Filter>
+    </ClInclude>
+    <ClInclude Include="McEvents.h">
+      <Filter>etc</Filter>
+    </ClInclude>
+    <ClInclude Include="McTagsAndLayers.h">
+      <Filter>Meta</Filter>
+    </ClInclude>
+    <ClInclude Include="TrashSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="DropSoundSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="InGameUiSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomRenderSystem.h" />
+    <ClInclude Include="resource.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomEnterSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="IngameLightSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomGeneratorSystem.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="BucketTillingSystem.h" />
+    <ClInclude Include="CreditSceneSystem.h" />
+    <ClInclude Include="BGMSystem.h" />
+  </ItemGroup>
+</Project>

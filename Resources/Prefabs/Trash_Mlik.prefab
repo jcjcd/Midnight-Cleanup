@@ -1,0 +1,168 @@
+{
+    "value0": 1,
+    "value1": 1,
+    "value2": 1048577,
+    "struct core::Name": 1,
+    "value3": 1048577,
+    "value4": {
+        "name": "Trash Milk"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 1,
+    "value5": 1048577,
+    "value6": {
+        "position": {
+            "x": 0.0002348428824916482,
+            "y": 0.008961683139204979,
+            "z": -0.00038337710429914296
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::WorldTransform": 1,
+    "value7": 1048577,
+    "value8": {
+        "position": {
+            "x": 0.0002348428824916482,
+            "y": 0.008961683139204979,
+            "z": -0.00038337710429914296
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::Relationship": 0,
+    "struct core::Rigidbody": 1,
+    "value9": 1048577,
+    "value10": {
+        "mass": 5.0,
+        "drag": 2.0,
+        "angularDrag": 1.0,
+        "useGravity": true,
+        "isKinematic": false,
+        "interpolation": 0,
+        "constraints": 0
+    },
+    "struct core::ColliderCommon": 1,
+    "value11": 1048577,
+    "value12": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material\\default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.09000000357627869,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "struct core::BoxCollider": 1,
+    "value13": 1048577,
+    "value14": {
+        "size": {
+            "x": 0.15000000596046449,
+            "y": 0.23000000417232514,
+            "z": 0.1599999964237213
+        }
+    },
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 0,
+    "struct core::CharacterController": 0,
+    "struct core::Tag": 1,
+    "value15": 1048577,
+    "value16": {
+        "id": 3143877046
+    },
+    "struct core::Layer": 1,
+    "value17": 1048577,
+    "value18": {
+        "mask": 1680
+    },
+    "struct core::MeshRenderer": 1,
+    "value19": 1048577,
+    "value20": {
+        "meshString": "SM_trashmlik",
+        "materialStrings": [
+            "./Resources/Materials/M_trash.material"
+        ],
+        "isOn": true,
+        "receiveShadow": true,
+        "isSkinned": false,
+        "isCulling": true,
+        "canReceivingDecal": true
+    },
+    "struct core::Decal": 0,
+    "struct core::Camera": 0,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 0,
+    "struct core::LightCommon": 1,
+    "value21": 4294967295,
+    "struct core::DirectionalLight": 1,
+    "value22": 4294967295,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 0,
+    "struct core::UI2D": 0,
+    "struct core::UI3D": 0,
+    "struct core::Text": 0,
+    "struct core::Button": 0,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 0,
+    "struct core::RenderAttributes": 1,
+    "value23": 1048577,
+    "value24": {
+        "flags": 0
+    },
+    "struct core::Sound": 1,
+    "value25": 1048577,
+    "value26": {
+        "path": "./Resources/Sound\\trash\\Drop_Small.wav",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "minDistance": 0.5,
+        "maxDistance": 10.0,
+        "isLoop": false,
+        "is3D": true,
+        "isPlaying": false
+    },
+    "struct core::SoundListener": 0,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct mc::CharacterMovement": 0,
+    "struct mc::Picking": 0,
+    "struct mc::RadialUI": 0,
+    "struct mc::Tool": 0,
+    "struct mc::Inventory": 0,
+    "struct mc::RayCastingInfo": 0,
+    "struct mc::PivotSlot": 0,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 0,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 0,
+    "struct mc::DestroyableTrash": 1,
+    "value27": 1048577,
+    "value28": {
+        "inTrashBox": false,
+        "remainTime": 5.0
+    }
+}

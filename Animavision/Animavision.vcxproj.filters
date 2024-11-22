@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="AnimationHelper.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatorController.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="AssimpParser.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="IModelParser.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelLoader.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="RendererContext.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderResource.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangDXII.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="Descriptor.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX12Buffer.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX12Context.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX12ResourceManager.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX12Shader.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX12ShaderCompiler.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX12Texture.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="PipelineState.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11Buffer.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11Camera.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11ResourceManager.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11Sampler.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11Shader.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11Texture.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11GraphicsResource.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshLibrary.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandObject.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="NeoDX11Context.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11State.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="NeoWooDXI.cpp">
+      <Filter>WooDXI\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationLibrary.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GpuKernels.cpp" />
+    <ClCompile Include="SimpleLighting.cpp" />
+    <ClCompile Include="SkinnedVertexConverter.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="Pathtracer.cpp">
+      <Filter>ChangDXII\source</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugDraw.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceFontLoader.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="FontRenderer.cpp">
+      <Filter>Common\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="VideoTexture.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="RendererDLL.h" />
+    <ClInclude Include="AnimationHelper.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatorController.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="AssimpParser.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="IModelParser.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexCreator.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelLoader.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="RendererContext.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderResource.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangDXII.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Descriptor.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX12Buffer.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX12Context.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX12Helper.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX12ResourceManager.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX12Shader.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX12ShaderCompiler.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX12Texture.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="PipelineState.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11Buffer.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11Camera.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11Relatives.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11ResourceManager.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11Sampler.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11Texture.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11GraphicsResource.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshLibrary.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandObject.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="NeoDX11Context.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11State.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="NeoWooDXI.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationLibrary.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="GpuKernels.h" />
+    <ClInclude Include="RaytracingHlslCompat.h" />
+    <ClInclude Include="SimpleLighting.h" />
+    <ClInclude Include="SkinnedVertexConverter.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Pathtracer.h">
+      <Filter>ChangDXII\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugDraw.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceFontLoader.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11Shader.h">
+      <Filter>WooDXI\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="FontRenderer.h">
+      <Filter>Common\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="VideoTexture.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\Shaders\DefaultPBR.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\PBRSupport.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\ShaderVariables.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\commonMath.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\Sky.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\ConvertEnv.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\DefaultPBRIBL.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\SamplerStates.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\unlit.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\CS_outline.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\color.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\pickingVSPS.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\normaliscolor.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\testRayGeneration.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\testRaytracing.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\Raytracing\Pathtracer.hlsl" />
+    <CustomBuild Include="..\Shaders\CS_Skinning.hlsl" />
+    <CustomBuild Include="..\Shaders\DeferredGeometry.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\DeferredShading.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\LightandShadowFunctions.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\SpotLightDepth.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\DirectionalLightDepth.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\PointLightDepth.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\UI.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\DeferredGeometryORM.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\ssdecal.hlsl">
+      <Filter>ChangDXII\Shader</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\DeferredGeometryORML.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\particleDeadListInit.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\particleEmit.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\particleInit.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\particleRender.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\particleSimulate.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Shaders\DeferredGeometryORMO.hlsl">
+      <Filter>WooDXI\HLSL</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+    <None Include="packages.config" />
+    <None Include="..\Shaders\particleCommon.hlsli">
+      <Filter>WooDXI\HLSL</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="WooDXI">
+      <UniqueIdentifier>{5fa6313d-b413-4896-993b-b8bb6ab02b21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChangDXII">
+      <UniqueIdentifier>{9a07f645-a66f-4ecb-ba7d-c0b461528ee3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{89a5e97e-e439-4e65-ab70-6854b5c31f6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Include">
+      <UniqueIdentifier>{5ca56af1-94c2-4dbf-9689-010693650749}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Source">
+      <UniqueIdentifier>{3204d1a1-ecbb-4af5-af6b-96cc21d16bb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WooDXI\Include">
+      <UniqueIdentifier>{3fc5a290-58da-4823-a721-9f851b19b083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WooDXI\HLSL">
+      <UniqueIdentifier>{a34ee1e2-f8f8-47be-bf03-6725332a229a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChangDXII\Shader">
+      <UniqueIdentifier>{02f020bc-0399-495d-b11f-bfb6beff8343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChangDXII\Include">
+      <UniqueIdentifier>{2bbf694d-054e-4c1e-bdcd-7f114f9b78e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChangDXII\source">
+      <UniqueIdentifier>{17aa7d33-a0ec-4c77-b3f0-f3e621c5c4ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WooDXI\Source">
+      <UniqueIdentifier>{ff436f1f-78ef-48b5-80e4-296aa16f7b20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

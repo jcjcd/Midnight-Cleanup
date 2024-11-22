@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_women_cloth_a.material",
+        "material.m_ShaderString": "./Shaders/SkinnedDeferredGeometryORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Characters/Women/cloth_2_hari_act/T_women_clorh_a_BaseColor.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Characters/Women/cloth_2_hari_act/T_women_clorh_a_Normal.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Characters/Women/cloth_2_hari_act/T_women_clorh_a_act_OcclusionRoughnessMetallic.dds"
+                }
+            }
+        ]
+    }
+}

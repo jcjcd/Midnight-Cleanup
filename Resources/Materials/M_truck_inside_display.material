@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_truck_inside_display.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/truck/T_truck_inside_display_L_BaseColor.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/truck/T_truck_inside_display_L_Normal.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/truck/T_truck_inside_display_L_OcclusionRoughnessMetallic.dds"
+                }
+            },
+            {
+                "key": "gEmissive",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/truck/T_truck_inside_display_L_Emissive.dds"
+                }
+            }
+        ]
+    }
+}

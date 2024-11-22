@@ -1,0 +1,22 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Physic Material/Trash_WoodenBoard.material",
+        "material.m_ShaderString": "./Shaders/BloomAccumulate.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gInputTexture",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultmagentapng.dds"
+                }
+            },
+            {
+                "key": "gDownSampledTexture",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultmagentapng.dds"
+                }
+            }
+        ]
+    }
+}

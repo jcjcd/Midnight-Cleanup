@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_window_glass.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORMNoN.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/house/T_window_glass_Material_002_BaseColor.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/house/T_window_glass_Material_002_OcclusionRoughnessMetallic.dds"
+                }
+            },
+            {
+                "key": "gEmissive",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="etc">
+      <UniqueIdentifier>{6eac05b8-999b-42c1-982e-6f9188e9acd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Process">
+      <UniqueIdentifier>{a9fc2344-b778-4b83-9e88-e4b0c5306092}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Process\src">
+      <UniqueIdentifier>{168adf68-c984-49ec-8ebe-428f350179f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="etc\src">
+      <UniqueIdentifier>{7dc5aa12-a19c-4159-8662-fe2eb210d8a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="etc\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LauncherProcess.h">
+      <Filter>Process</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>etc\리소스 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="launcher.rc">
+      <Filter>etc\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>etc\리소스 파일</Filter>
+    </Image>
+    <Image Include="launcher.ico">
+      <Filter>etc\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Process\src</Filter>
+    </ClCompile>
+    <ClCompile Include="LauncherProcess.cpp">
+      <Filter>Process\src</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>etc\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

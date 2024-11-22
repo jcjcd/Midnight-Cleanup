@@ -1,0 +1,496 @@
+{
+    "value0": {
+        "animatorName": "hand",
+        "entryStateName": "Entry",
+        "stateMap": [
+            {
+                "key": "Entry",
+                "value": {
+                    "name": "Entry",
+                    "transitions": [
+                        {
+                            "value0": "Idle",
+                            "value1": [],
+                            "value2": 0.0,
+                            "value3": 0.0
+                        }
+                    ],
+                    "motionName": "",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "Idle",
+                "value": {
+                    "name": "Idle",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Idle",
+                    "multiplier": 1.0,
+                    "isLoop": true,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "AxeIdle",
+                "value": {
+                    "name": "AxeIdle",
+                    "transitions": [
+                        {
+                            "value0": "AxeAction",
+                            "value1": [
+                                {
+                                    "mode": 6,
+                                    "parameter": "ActionTrigger",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                }
+                            ],
+                            "value2": 0.0,
+                            "value3": 0.0
+                        }
+                    ],
+                    "motionName": "hand|AS_Hand_Axe_Idle",
+                    "multiplier": 1.0,
+                    "isLoop": true,
+                    "animationEvents": [
+                        {
+                            "time": 0.0,
+                            "functionName": "",
+                            "value0": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "key": "AxeAction",
+                "value": {
+                    "name": "AxeAction",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Axe_Wipe",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": [
+                        {
+                            "time": 0.5,
+                            "functionName": "OnHitFurniture",
+                            "value0": 1,
+                            "typeHash": 0,
+                            "value": ""
+                        },
+                        {
+                            "time": 0.0,
+                            "functionName": "OnChangeTrigger",
+                            "value0": 3,
+                            "typeHash": 0,
+                            "value": "",
+                            "typeHash": 3983312184,
+                            "value": "IsAction",
+                            "typeHash": 3365180733,
+                            "value": "true"
+                        },
+                        {
+                            "time": 1.0,
+                            "functionName": "OnChangeTrigger",
+                            "value0": 3,
+                            "typeHash": 3983312184,
+                            "value": "",
+                            "typeHash": 3983312184,
+                            "value": "IsAction",
+                            "typeHash": 3365180733,
+                            "value": "false"
+                        },
+                        {
+                            "time": 1.0,
+                            "functionName": "OnChangeTrigger",
+                            "value0": 3,
+                            "typeHash": 3983312184,
+                            "value": "",
+                            "typeHash": 3983312184,
+                            "value": "ActionTrigger",
+                            "typeHash": 3365180733,
+                            "value": "false"
+                        }
+                    ]
+                }
+            },
+            {
+                "key": "Jump",
+                "value": {
+                    "name": "Jump",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Jump",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "MopIdle",
+                "value": {
+                    "name": "MopIdle",
+                    "transitions": [
+                        {
+                            "value0": "MopAction",
+                            "value1": [
+                                {
+                                    "mode": 6,
+                                    "parameter": "ActionTrigger",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                }
+                            ],
+                            "value2": 0.0,
+                            "value3": 0.0
+                        }
+                    ],
+                    "motionName": "hand|AS_Hand_Mop_Idle",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "MopAction",
+                "value": {
+                    "name": "MopAction",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Mop_Wipe",
+                    "multiplier": 1.5000001192092896,
+                    "isLoop": false,
+                    "animationEvents": [
+                        {
+                            "time": 0.44999998807907107,
+                            "functionName": "OnWipeTools",
+                            "value0": 1,
+                            "typeHash": 0,
+                            "value": ""
+                        },
+                        {
+                            "time": 0.0,
+                            "functionName": "OnChangeTrigger",
+                            "value0": 3,
+                            "typeHash": 0,
+                            "value": "",
+                            "typeHash": 3983312184,
+                            "value": "IsAction",
+                            "typeHash": 3365180733,
+                            "value": "true"
+                        },
+                        {
+                            "time": 1.0,
+                            "functionName": "OnChangeTrigger",
+                            "value0": 3,
+                            "typeHash": 0,
+                            "value": "",
+                            "typeHash": 3983312184,
+                            "value": "IsAction",
+                            "typeHash": 3365180733,
+                            "value": "false"
+                        },
+                        {
+                            "time": 1.0,
+                            "functionName": "OnChangeTrigger",
+                            "value0": 3,
+                            "typeHash": 0,
+                            "value": "",
+                            "typeHash": 3983312184,
+                            "value": "ActionTrigger",
+                            "typeHash": 3365180733,
+                            "value": "false"
+                        }
+                    ]
+                }
+            },
+            {
+                "key": "SpongeIdle",
+                "value": {
+                    "name": "SpongeIdle",
+                    "transitions": [
+                        {
+                            "value0": "SpongeAction",
+                            "value1": [
+                                {
+                                    "mode": 6,
+                                    "parameter": "ActionTrigger",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                }
+                            ],
+                            "value2": 0.0,
+                            "value3": 0.0
+                        }
+                    ],
+                    "motionName": "hand|AS_Hand_Sponge_Idle",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "SpongeAction",
+                "value": {
+                    "name": "SpongeAction",
+                    "transitions": [
+                        {
+                            "value0": "SpongeIdle",
+                            "value1": [],
+                            "value2": 0.0,
+                            "value3": 1.0
+                        }
+                    ],
+                    "motionName": "hand|AS_Hand_Sponge_Wipe",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": [
+                        {
+                            "time": 0.0,
+                            "functionName": "OnWipeTools",
+                            "value0": 1,
+                            "typeHash": 0,
+                            "value": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "key": "CarryingIdle",
+                "value": {
+                    "name": "CarryingIdle",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Carry",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "Run",
+                "value": {
+                    "name": "Run",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Run",
+                    "multiplier": 1.0,
+                    "isLoop": true,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "SpongeWash",
+                "value": {
+                    "name": "SpongeWash",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Sponge_Wash",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "Flashlight Idle",
+                "value": {
+                    "name": "Flashlight Idle",
+                    "transitions": [],
+                    "motionName": "hand|AS_Hand_Flashlight",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            },
+            {
+                "key": "Any State",
+                "value": {
+                    "name": "Any State",
+                    "transitions": [
+                        {
+                            "value0": "Idle",
+                            "value1": [
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsRunning",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsGround",
+                                    "typeHash": 3365180733,
+                                    "value": "true"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "ToolType",
+                                    "typeHash": 2515107422,
+                                    "value": "0"
+                                }
+                            ],
+                            "value2": 0.20000000298023225,
+                            "value3": 0.0
+                        },
+                        {
+                            "value0": "AxeIdle",
+                            "value1": [
+                                {
+                                    "mode": 4,
+                                    "parameter": "ToolType",
+                                    "typeHash": 2515107422,
+                                    "value": "1"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsAction",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                }
+                            ],
+                            "value2": 0.20000000298023225,
+                            "value3": 0.0
+                        },
+                        {
+                            "value0": "Run",
+                            "value1": [
+                                {
+                                    "mode": 4,
+                                    "parameter": "ToolType",
+                                    "typeHash": 2515107422,
+                                    "value": "0"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsRunning",
+                                    "typeHash": 3365180733,
+                                    "value": "true"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsGround",
+                                    "typeHash": 3365180733,
+                                    "value": "true"
+                                }
+                            ],
+                            "value2": 0.20000000298023225,
+                            "value3": 0.0
+                        },
+                        {
+                            "value0": "MopIdle",
+                            "value1": [
+                                {
+                                    "mode": 4,
+                                    "parameter": "ToolType",
+                                    "typeHash": 2515107422,
+                                    "value": "2"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsAction",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                }
+                            ],
+                            "value2": 0.20000000298023225,
+                            "value3": 0.0
+                        },
+                        {
+                            "value0": "SpongeIdle",
+                            "value1": [
+                                {
+                                    "mode": 4,
+                                    "parameter": "ToolType",
+                                    "typeHash": 2515107422,
+                                    "value": "3"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsAction",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                }
+                            ],
+                            "value2": 0.20000000298023225,
+                            "value3": 0.0
+                        },
+                        {
+                            "value0": "Jump",
+                            "value1": [
+                                {
+                                    "mode": 4,
+                                    "parameter": "ToolType",
+                                    "typeHash": 2515107422,
+                                    "value": "0"
+                                },
+                                {
+                                    "mode": 4,
+                                    "parameter": "IsGround",
+                                    "typeHash": 3365180733,
+                                    "value": "false"
+                                }
+                            ],
+                            "value2": 0.10000000149011612,
+                            "value3": 0.0
+                        },
+                        {
+                            "value0": "Flashlight Idle",
+                            "value1": [
+                                {
+                                    "mode": 4,
+                                    "parameter": "ToolType",
+                                    "typeHash": 2515107422,
+                                    "value": "4"
+                                }
+                            ],
+                            "value2": 0.20000000298023225,
+                            "value3": 0.0
+                        }
+                    ],
+                    "motionName": "",
+                    "multiplier": 1.0,
+                    "isLoop": false,
+                    "animationEvents": []
+                }
+            }
+        ],
+        "parameters": [
+            {
+                "key": "IsAction",
+                "value": {
+                    "name": "New Bool",
+                    "typeHash": 3365180733,
+                    "value": "false"
+                }
+            },
+            {
+                "key": "ToolType",
+                "value": {
+                    "name": "New Int",
+                    "typeHash": 2515107422,
+                    "value": "0"
+                }
+            },
+            {
+                "key": "ActionTrigger",
+                "value": {
+                    "name": "New Bool",
+                    "typeHash": 3365180733,
+                    "value": "false"
+                }
+            },
+            {
+                "key": "IsRunning",
+                "value": {
+                    "name": "New Bool",
+                    "typeHash": 3365180733,
+                    "value": "false"
+                }
+            },
+            {
+                "key": "IsGround",
+                "value": {
+                    "name": "New Bool",
+                    "typeHash": 3365180733,
+                    "value": "false"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "value0": {
+        "material.m_Name": "C:\\Users\\user\\Desktop\\svn\\anim\\5_Project\\Anim_all\\Resources\\Materials\\Skin.material",
+        "material.m_ShaderString": "./Shaders/SkinnedDeferredGeometry.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gMetallic",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/subtle-black-granite_albedo.dds"
+                }
+            },
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/subtle-black-granite_albedo.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/subtle-black-granite_normal-dx.dds"
+                }
+            },
+            {
+                "key": "gRoughness",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/subtle-black-granite_roughness.dds"
+                }
+            },
+            {
+                "key": "gAO",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/subtle-black-granite_ao.dds"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_Nordic_Forest_Cliff_Large_xibsff1.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryDpR.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gMetallic",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            },
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Nordic_Forest_Cliff_Large_xibsff1/T_Nordic_Forest_Cliff_Large_xibsff1_1K_D.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Nordic_Forest_Cliff_Large_xibsff1/T_Nordic_Forest_Cliff_Large_xibsff1_1K_N.dds"
+                }
+            },
+            {
+                "key": "gDpR",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Nordic_Forest_Cliff_Large_xibsff1/T_NordicForestCliffLarge_xibsff1_1K_DpRF.dds"
+                }
+            }
+        ]
+    }
+}

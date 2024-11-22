@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Mossy_Stones_Pack_tliiadmva.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryDpR.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gMetallic",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            },
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Mossy_Stones_Pack_tliiadmva/T_Mossy_Stones_Pack_tliiadmva_2K_D.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Mossy_Stones_Pack_tliiadmva/T_Mossy_Stones_Pack_tliiadmva_2K_N.dds"
+                }
+            },
+            {
+                "key": "gDpR",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Mossy_Stones_Pack_tliiadmva/T_MossyStonesPack_tliiadmva_2K_DpRF.dds"
+                }
+            }
+        ]
+    }
+}

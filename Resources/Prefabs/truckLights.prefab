@@ -1,0 +1,398 @@
+{
+    "value0": 3,
+    "value1": 3,
+    "value2": 3147570,
+    "value3": 3147569,
+    "value4": 3147568,
+    "struct core::Name": 3,
+    "value5": 3147570,
+    "value6": {
+        "name": "truckLights"
+    },
+    "value7": 3147569,
+    "value8": {
+        "name": "truckLight2"
+    },
+    "value9": 3147568,
+    "value10": {
+        "name": "truckLight1"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 3,
+    "value11": 3147570,
+    "value12": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value13": 3147569,
+    "value14": {
+        "position": {
+            "x": -5.996853351593018,
+            "y": 5.046057224273682,
+            "z": -12.830317497253418
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.9999999403953552,
+            "z": 0.9999999403953552
+        }
+    },
+    "value15": 3147568,
+    "value16": {
+        "position": {
+            "x": -5.925031661987305,
+            "y": 5.046057224273682,
+            "z": -9.2398681640625
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.9999999403953552,
+            "z": 0.9999999403953552
+        }
+    },
+    "struct core::WorldTransform": 3,
+    "value17": 3147570,
+    "value18": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value19": 3147569,
+    "value20": {
+        "position": {
+            "x": -5.996853351593018,
+            "y": 5.046057224273682,
+            "z": -12.830317497253418
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.9999999403953552,
+            "z": 0.9999999403953552
+        }
+    },
+    "value21": 3147568,
+    "value22": {
+        "position": {
+            "x": -5.925031661987305,
+            "y": 5.046057224273682,
+            "z": -9.2398681640625
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 0.9999999403953552,
+            "z": 0.9999999403953552
+        }
+    },
+    "struct core::Relationship": 3,
+    "value23": 3147570,
+    "value24": {
+        "parent": 4195982,
+        "children": [
+            3147569,
+            3147568
+        ]
+    },
+    "value25": 3147569,
+    "value26": {
+        "parent": 3147570,
+        "children": []
+    },
+    "value27": 3147568,
+    "value28": {
+        "parent": 3147570,
+        "children": []
+    },
+    "struct core::Rigidbody": 3,
+    "value29": 4294967295,
+    "value30": 4294967295,
+    "value31": 4294967295,
+    "struct core::ColliderCommon": 3,
+    "value32": 4294967295,
+    "value33": 4294967295,
+    "value34": 4294967295,
+    "struct core::BoxCollider": 3,
+    "value35": 4294967295,
+    "value36": 4294967295,
+    "value37": 4294967295,
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 3,
+    "value38": 4294967295,
+    "value39": 4294967295,
+    "value40": 4294967295,
+    "struct core::CharacterController": 3,
+    "value41": 4294967295,
+    "value42": 4294967295,
+    "value43": 4294967295,
+    "struct core::Tag": 3,
+    "value44": 4294967295,
+    "value45": 3147569,
+    "value46": {
+        "id": 1737417377
+    },
+    "value47": 3147568,
+    "value48": {
+        "id": 1737417377
+    },
+    "struct core::Layer": 3,
+    "value49": 4294967295,
+    "value50": 4294967295,
+    "value51": 4294967295,
+    "struct core::MeshRenderer": 3,
+    "value52": 4294967295,
+    "value53": 4294967295,
+    "value54": 4294967295,
+    "struct core::Decal": 0,
+    "struct core::Camera": 3,
+    "value55": 4294967295,
+    "value56": 4294967295,
+    "value57": 4294967295,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 3,
+    "value58": 4294967295,
+    "value59": 4294967295,
+    "value60": 4294967295,
+    "struct core::LightCommon": 3,
+    "value61": 4294967295,
+    "value62": 3147569,
+    "value63": {
+        "color": {
+            "x": 0.33000001311302187,
+            "y": 0.5600000023841858,
+            "z": 0.800000011920929,
+            "w": 1.0
+        },
+        "intensity": 2.0,
+        "isOn": true,
+        "useShadow": false,
+        "lightMode": 0
+    },
+    "value64": 3147568,
+    "value65": {
+        "color": {
+            "x": 0.33000001311302187,
+            "y": 0.5600000023841858,
+            "z": 0.800000011920929,
+            "w": 1.0
+        },
+        "intensity": 2.0,
+        "isOn": true,
+        "useShadow": false,
+        "lightMode": 0
+    },
+    "struct core::DirectionalLight": 3,
+    "value66": 4294967295,
+    "value67": 4294967295,
+    "value68": 4294967295,
+    "struct core::PointLight": 3,
+    "value69": 4294967295,
+    "value70": 3147569,
+    "value71": {
+        "attenuation": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "range": 2.4000000953674318
+    },
+    "value72": 3147568,
+    "value73": {
+        "attenuation": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "range": 3.700000047683716
+    },
+    "struct core::SpotLight": 3,
+    "value74": 4294967295,
+    "value75": 4294967295,
+    "value76": 4294967295,
+    "struct core::UICommon": 3,
+    "value77": 4294967295,
+    "value78": 4294967295,
+    "value79": 4294967295,
+    "struct core::UI2D": 3,
+    "value80": 4294967295,
+    "value81": 4294967295,
+    "value82": 4294967295,
+    "struct core::UI3D": 3,
+    "value83": 4294967295,
+    "value84": 4294967295,
+    "value85": 4294967295,
+    "struct core::Text": 3,
+    "value86": 4294967295,
+    "value87": 4294967295,
+    "value88": 4294967295,
+    "struct core::Button": 3,
+    "value89": 4294967295,
+    "value90": 4294967295,
+    "value91": 4294967295,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 3,
+    "value92": 4294967295,
+    "value93": 4294967295,
+    "value94": 4294967295,
+    "struct core::RenderAttributes": 3,
+    "value95": 4294967295,
+    "value96": 4294967295,
+    "value97": 4294967295,
+    "struct core::Sound": 3,
+    "value98": 4294967295,
+    "value99": 4294967295,
+    "value100": 4294967295,
+    "struct core::SoundListener": 3,
+    "value101": 4294967295,
+    "value102": 4294967295,
+    "value103": 4294967295,
+    "struct core::ComboBox": 3,
+    "value104": 4294967295,
+    "value105": 4294967295,
+    "value106": 4294967295,
+    "struct core::Slider": 3,
+    "value107": 4294967295,
+    "value108": 4294967295,
+    "value109": 4294967295,
+    "struct core::CheckBox": 3,
+    "value110": 4294967295,
+    "value111": 4294967295,
+    "value112": 4294967295,
+    "struct core::PostProcessingVolume": 3,
+    "value113": 4294967295,
+    "value114": 4294967295,
+    "value115": 4294967295,
+    "struct mc::CharacterMovement": 3,
+    "value116": 4294967295,
+    "value117": 4294967295,
+    "value118": 4294967295,
+    "struct mc::Picking": 3,
+    "value119": 4294967295,
+    "value120": 4294967295,
+    "value121": 4294967295,
+    "struct mc::RadialUI": 3,
+    "value122": 4294967295,
+    "value123": 4294967295,
+    "value124": 4294967295,
+    "struct mc::Tool": 3,
+    "value125": 4294967295,
+    "value126": 4294967295,
+    "value127": 4294967295,
+    "struct mc::Inventory": 3,
+    "value128": 4294967295,
+    "value129": 4294967295,
+    "value130": 4294967295,
+    "struct mc::RayCastingInfo": 3,
+    "value131": 4294967295,
+    "value132": 4294967295,
+    "value133": 4294967295,
+    "struct mc::PivotSlot": 3,
+    "value134": 4294967295,
+    "value135": 4294967295,
+    "value136": 4294967295,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 3,
+    "value137": 4294967295,
+    "value138": 4294967295,
+    "value139": 4294967295,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 3,
+    "value140": 4294967295,
+    "value141": 4294967295,
+    "value142": 4294967295,
+    "struct mc::DestroyableTrash": 0,
+    "struct mc::Room": 3,
+    "value143": 4294967295,
+    "value144": 4294967295,
+    "value145": 4294967295,
+    "struct mc::UVAnimationRenderer": 0,
+    "struct mc::Door": 3,
+    "value146": 4294967295,
+    "value147": 4294967295,
+    "value148": 4294967295,
+    "struct mc::Switch": 3,
+    "value149": 4294967295,
+    "value150": 4294967295,
+    "value151": 4294967295,
+    "struct mc::Flashlight": 3,
+    "value152": 4294967295,
+    "value153": 4294967295,
+    "value154": 4294967295,
+    "struct mc::TrashGenerator": 3,
+    "value155": 4294967295,
+    "value156": 4294967295,
+    "value157": 4294967295,
+    "struct mc::Mop": 3,
+    "value158": 4294967295,
+    "value159": 4294967295,
+    "value160": 4294967295,
+    "struct mc::Sponge": 0,
+    "struct mc::TVTimer": 3,
+    "value161": 4294967295,
+    "value162": 4294967295,
+    "value163": 4294967295,
+    "struct mc::GameManager": 3,
+    "value164": 4294967295,
+    "value165": 4294967295,
+    "value166": 4294967295,
+    "struct mc::GameSettingController": 3,
+    "value167": 4294967295,
+    "value168": 4294967295,
+    "value169": 4294967295,
+    "struct mc::MopStainGenerator": 3,
+    "value170": 4294967295,
+    "value171": 4294967295,
+    "value172": 4294967295
+}

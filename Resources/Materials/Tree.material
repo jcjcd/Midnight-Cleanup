@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Tree.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryOpacNoORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Plants/T_tree_Base_color.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Plants/T_tree_Normal.dds"
+                }
+            },
+            {
+                "key": "gAlpha",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Plants/T_tree_alpha.dds"
+                }
+            }
+        ]
+    }
+}

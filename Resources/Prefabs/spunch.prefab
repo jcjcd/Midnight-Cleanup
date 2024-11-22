@@ -1,0 +1,426 @@
+{
+    "value0": 6,
+    "value1": 6,
+    "value2": 3145747,
+    "value3": 3145750,
+    "value4": 3145749,
+    "value5": 3145748,
+    "value6": 3145746,
+    "value7": 3145745,
+    "struct core::Name": 6,
+    "value8": 3145747,
+    "value9": {
+        "name": "New Entity (3145747)"
+    },
+    "value10": 3145750,
+    "value11": {
+        "name": "New Entity (3145750)"
+    },
+    "value12": 3145749,
+    "value13": {
+        "name": "New Entity (3145749)"
+    },
+    "value14": 3145748,
+    "value15": {
+        "name": "New Entity (3145748)"
+    },
+    "value16": 3145746,
+    "value17": {
+        "name": "New Entity (3145746)"
+    },
+    "value18": 3145745,
+    "value19": {
+        "name": "New Entity (3145745)"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 6,
+    "value20": 3145747,
+    "value21": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value22": 3145750,
+    "value23": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value24": 3145749,
+    "value25": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value26": 3145748,
+    "value27": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value28": 3145746,
+    "value29": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value30": 3145745,
+    "value31": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::WorldTransform": 6,
+    "value32": 3145747,
+    "value33": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value34": 3145750,
+    "value35": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value36": 3145749,
+    "value37": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value38": 3145748,
+    "value39": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value40": 3145746,
+    "value41": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value42": 3145745,
+    "value43": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::Relationship": 6,
+    "value44": 3145747,
+    "value45": {
+        "parent": 4294967295,
+        "children": [
+            3145749
+        ]
+    },
+    "value46": 3145750,
+    "value47": {
+        "parent": 3145745,
+        "children": []
+    },
+    "value48": 3145749,
+    "value49": {
+        "parent": 3145747,
+        "children": [
+            3145745
+        ]
+    },
+    "value50": 3145748,
+    "value51": {
+        "parent": 3145745,
+        "children": []
+    },
+    "value52": 3145746,
+    "value53": {
+        "parent": 3145745,
+        "children": []
+    },
+    "value54": 3145745,
+    "value55": {
+        "parent": 3145749,
+        "children": [
+            3145746,
+            3145748,
+            3145750
+        ]
+    },
+    "struct core::Rigidbody": 6,
+    "value56": 4294967295,
+    "value57": 4294967295,
+    "value58": 4294967295,
+    "value59": 4294967295,
+    "value60": 4294967295,
+    "value61": 4294967295,
+    "struct core::ColliderCommon": 6,
+    "value62": 4294967295,
+    "value63": 4294967295,
+    "value64": 4294967295,
+    "value65": 4294967295,
+    "value66": 4294967295,
+    "value67": 4294967295,
+    "struct core::BoxCollider": 6,
+    "value68": 4294967295,
+    "value69": 4294967295,
+    "value70": 4294967295,
+    "value71": 4294967295,
+    "value72": 4294967295,
+    "value73": 4294967295,
+    "struct core::SphereCollider": 6,
+    "value74": 4294967295,
+    "value75": 4294967295,
+    "value76": 4294967295,
+    "value77": 4294967295,
+    "value78": 4294967295,
+    "value79": 4294967295,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 0,
+    "struct core::CharacterController": 0,
+    "struct core::Tag": 6,
+    "value80": 4294967295,
+    "value81": 4294967295,
+    "value82": 4294967295,
+    "value83": 4294967295,
+    "value84": 4294967295,
+    "value85": 4294967295,
+    "struct core::Layer": 6,
+    "value86": 4294967295,
+    "value87": 4294967295,
+    "value88": 4294967295,
+    "value89": 4294967295,
+    "value90": 4294967295,
+    "value91": 4294967295,
+    "struct core::MeshRenderer": 6,
+    "value92": 4294967295,
+    "value93": 4294967295,
+    "value94": 4294967295,
+    "value95": 4294967295,
+    "value96": 4294967295,
+    "value97": 4294967295,
+    "struct core::Decal": 0,
+    "struct core::Camera": 0,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 0,
+    "struct core::LightCommon": 6,
+    "value98": 4294967295,
+    "value99": 4294967295,
+    "value100": 4294967295,
+    "value101": 4294967295,
+    "value102": 4294967295,
+    "value103": 4294967295,
+    "struct core::DirectionalLight": 6,
+    "value104": 4294967295,
+    "value105": 4294967295,
+    "value106": 4294967295,
+    "value107": 4294967295,
+    "value108": 4294967295,
+    "value109": 4294967295,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 0,
+    "struct core::UI2D": 0,
+    "struct core::UI3D": 0,
+    "struct core::Text": 0,
+    "struct core::Button": 0,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 0,
+    "struct core::RenderAttributes": 6,
+    "value110": 4294967295,
+    "value111": 4294967295,
+    "value112": 4294967295,
+    "value113": 4294967295,
+    "value114": 4294967295,
+    "value115": 4294967295,
+    "struct core::Sound": 6,
+    "value116": 4294967295,
+    "value117": 4294967295,
+    "value118": 4294967295,
+    "value119": 4294967295,
+    "value120": 4294967295,
+    "value121": 4294967295,
+    "struct core::SoundListener": 0,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct core::PostProcessingVolume": 0,
+    "struct mc::CharacterMovement": 0,
+    "struct mc::Picking": 0,
+    "struct mc::RadialUI": 0,
+    "struct mc::Tool": 0,
+    "struct mc::Inventory": 0,
+    "struct mc::RayCastingInfo": 0,
+    "struct mc::PivotSlot": 0,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 0,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 0,
+    "struct mc::DestroyableTrash": 6,
+    "value122": 4294967295,
+    "value123": 4294967295,
+    "value124": 4294967295,
+    "value125": 4294967295,
+    "value126": 4294967295,
+    "value127": 4294967295,
+    "struct mc::Room": 0,
+    "struct mc::UVAnimationRenderer": 0,
+    "struct mc::Door": 0
+}

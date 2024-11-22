@@ -1,0 +1,36 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_Tundra_Mossy_Boulder_vivveardw.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryDpR.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gMetallic",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultblackpng .dds"
+                }
+            },
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Tundra_Mossy_Boulder_vivveardw/T_Tundra_Mossy_Boulder_vivveardw_2K_D.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Tundra_Mossy_Boulder_vivveardw/T_Tundra_Mossy_Boulder_vivveardw_2K_N.dds"
+                }
+            },
+            {
+                "key": "gDpR",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/3D_Assets/Tundra_Mossy_Boulder_vivveardw/T_TundraMossyBoulder_vivveardw_2K_DpRF.dds"
+                }
+            }
+        ]
+    }
+}

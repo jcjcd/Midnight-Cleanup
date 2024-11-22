@@ -1,0 +1,43 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_Radio.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryMetallicSmooth.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Radio/Radio_Albedo.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Radio/Radio_Normal.dds"
+                }
+            },
+            {
+                "key": "gMetallicSmoothness",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Radio/Radio_MetallicSmoothness.dds"
+                }
+            },
+            {
+                "key": "gAO",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Radio/Radio.dds"
+                }
+            },
+            {
+                "key": "gEmissive",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Radio/Radio_Emission.dds"
+                }
+            }
+        ]
+    }
+}

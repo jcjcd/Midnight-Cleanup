@@ -1,0 +1,1350 @@
+{
+    "value0": 26,
+    "value1": 26,
+    "value2": 1048578,
+    "value3": 7340064,
+    "value4": 7340063,
+    "value5": 7340062,
+    "value6": 7340061,
+    "value7": 7340060,
+    "value8": 1048586,
+    "value9": 1048582,
+    "value10": 1048587,
+    "value11": 1048581,
+    "value12": 1048577,
+    "value13": 1048593,
+    "value14": 1048592,
+    "value15": 1048591,
+    "value16": 1048590,
+    "value17": 1048589,
+    "value18": 1048588,
+    "value19": 1048595,
+    "value20": 3145749,
+    "value21": 1048585,
+    "value22": 1048584,
+    "value23": 1048583,
+    "value24": 1048596,
+    "value25": 1048594,
+    "value26": 1048580,
+    "value27": 1048579,
+    "struct core::Name": 26,
+    "value28": 1048578,
+    "value29": {
+        "name": "Reward UI"
+    },
+    "value30": 7340064,
+    "value31": {
+        "name": "Percentage Bonus$"
+    },
+    "value32": 7340063,
+    "value33": {
+        "name": "Percentage Bonus"
+    },
+    "value34": 7340062,
+    "value35": {
+        "name": "Ghost Event Bonus$"
+    },
+    "value36": 7340061,
+    "value37": {
+        "name": "Ghost Event Bonus"
+    },
+    "value38": 7340060,
+    "value39": {
+        "name": "Mess Minus$"
+    },
+    "value40": 1048586,
+    "value41": {
+        "name": "Transportation Fee"
+    },
+    "value42": 1048582,
+    "value43": {
+        "name": "MessMinus"
+    },
+    "value44": 1048587,
+    "value45": {
+        "name": "Transportation Fee$"
+    },
+    "value46": 1048581,
+    "value47": {
+        "name": "Percentage"
+    },
+    "value48": 1048577,
+    "value49": {
+        "name": "Comment"
+    },
+    "value50": 1048593,
+    "value51": {
+        "name": "Total Pay$"
+    },
+    "value52": 1048592,
+    "value53": {
+        "name": "Total Pay"
+    },
+    "value54": 1048591,
+    "value55": {
+        "name": "star1"
+    },
+    "value56": 1048590,
+    "value57": {
+        "name": "Calculation BG"
+    },
+    "value58": 1048589,
+    "value59": {
+        "name": "CleanPlus$"
+    },
+    "value60": 1048588,
+    "value61": {
+        "name": "Work Pay$"
+    },
+    "value62": 1048595,
+    "value63": {
+        "name": "CleanPlus"
+    },
+    "value64": 3145749,
+    "value65": {
+        "name": "ReturnToTitle"
+    },
+    "value66": 1048585,
+    "value67": {
+        "name": "star0"
+    },
+    "value68": 1048584,
+    "value69": {
+        "name": "Work Pay"
+    },
+    "value70": 1048583,
+    "value71": {
+        "name": "3$"
+    },
+    "value72": 1048596,
+    "value73": {
+        "name": "Intern"
+    },
+    "value74": 1048594,
+    "value75": {
+        "name": "star4"
+    },
+    "value76": 1048580,
+    "value77": {
+        "name": "star3"
+    },
+    "value78": 1048579,
+    "value79": {
+        "name": "star2"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 26,
+    "value80": 4294967295,
+    "value81": 4294967295,
+    "value82": 4294967295,
+    "value83": 4294967295,
+    "value84": 4294967295,
+    "value85": 4294967295,
+    "value86": 4294967295,
+    "value87": 4294967295,
+    "value88": 4294967295,
+    "value89": 4294967295,
+    "value90": 4294967295,
+    "value91": 4294967295,
+    "value92": 4294967295,
+    "value93": 4294967295,
+    "value94": 4294967295,
+    "value95": 4294967295,
+    "value96": 4294967295,
+    "value97": 4294967295,
+    "value98": 4294967295,
+    "value99": 4294967295,
+    "value100": 4294967295,
+    "value101": 4294967295,
+    "value102": 4294967295,
+    "value103": 4294967295,
+    "value104": 4294967295,
+    "value105": 4294967295,
+    "struct core::WorldTransform": 26,
+    "value106": 4294967295,
+    "value107": 4294967295,
+    "value108": 4294967295,
+    "value109": 4294967295,
+    "value110": 4294967295,
+    "value111": 4294967295,
+    "value112": 4294967295,
+    "value113": 4294967295,
+    "value114": 4294967295,
+    "value115": 4294967295,
+    "value116": 4294967295,
+    "value117": 4294967295,
+    "value118": 4294967295,
+    "value119": 4294967295,
+    "value120": 4294967295,
+    "value121": 4294967295,
+    "value122": 4294967295,
+    "value123": 4294967295,
+    "value124": 4294967295,
+    "value125": 4294967295,
+    "value126": 4294967295,
+    "value127": 4294967295,
+    "value128": 4294967295,
+    "value129": 4294967295,
+    "value130": 4294967295,
+    "value131": 4294967295,
+    "struct core::Relationship": 26,
+    "value132": 1048578,
+    "value133": {
+        "parent": 4294967295,
+        "children": [
+            1048577,
+            1048593,
+            1048592,
+            1048589,
+            1048588,
+            1048595,
+            1048584,
+            1048583,
+            1048596,
+            1048594,
+            1048580,
+            1048579,
+            1048591,
+            1048585,
+            1048590,
+            3145749,
+            1048581,
+            1048587,
+            1048582,
+            1048586,
+            7340060,
+            7340061,
+            7340062,
+            7340063,
+            7340064
+        ]
+    },
+    "value134": 7340064,
+    "value135": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value136": 7340063,
+    "value137": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value138": 7340062,
+    "value139": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value140": 7340061,
+    "value141": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value142": 7340060,
+    "value143": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value144": 1048586,
+    "value145": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value146": 1048582,
+    "value147": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value148": 1048587,
+    "value149": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value150": 1048581,
+    "value151": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value152": 1048577,
+    "value153": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value154": 1048593,
+    "value155": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value156": 1048592,
+    "value157": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value158": 1048591,
+    "value159": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value160": 1048590,
+    "value161": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value162": 1048589,
+    "value163": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value164": 1048588,
+    "value165": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value166": 1048595,
+    "value167": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value168": 3145749,
+    "value169": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value170": 1048585,
+    "value171": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value172": 1048584,
+    "value173": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value174": 1048583,
+    "value175": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value176": 1048596,
+    "value177": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value178": 1048594,
+    "value179": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value180": 1048580,
+    "value181": {
+        "parent": 1048578,
+        "children": []
+    },
+    "value182": 1048579,
+    "value183": {
+        "parent": 1048578,
+        "children": []
+    },
+    "struct core::Rigidbody": 0,
+    "struct core::ColliderCommon": 0,
+    "struct core::BoxCollider": 0,
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 0,
+    "struct core::CharacterController": 0,
+    "struct core::Tag": 26,
+    "value184": 4294967295,
+    "value185": 7340064,
+    "value186": {
+        "id": 1029198067
+    },
+    "value187": 4294967295,
+    "value188": 7340062,
+    "value189": {
+        "id": 2125877992
+    },
+    "value190": 4294967295,
+    "value191": 7340060,
+    "value192": {
+        "id": 2915965047
+    },
+    "value193": 4294967295,
+    "value194": 4294967295,
+    "value195": 1048587,
+    "value196": {
+        "id": 2872560591
+    },
+    "value197": 1048581,
+    "value198": {
+        "id": 725100804
+    },
+    "value199": 1048577,
+    "value200": {
+        "id": 2728900131
+    },
+    "value201": 1048593,
+    "value202": {
+        "id": 4294897992
+    },
+    "value203": 4294967295,
+    "value204": 1048591,
+    "value205": {
+        "id": 2951574351
+    },
+    "value206": 4294967295,
+    "value207": 1048589,
+    "value208": {
+        "id": 2377143785
+    },
+    "value209": 1048588,
+    "value210": {
+        "id": 3706251093
+    },
+    "value211": 4294967295,
+    "value212": 4294967295,
+    "value213": 1048585,
+    "value214": {
+        "id": 2934796732
+    },
+    "value215": 4294967295,
+    "value216": 4294967295,
+    "value217": 4294967295,
+    "value218": 1048594,
+    "value219": {
+        "id": 2867686256
+    },
+    "value220": 1048580,
+    "value221": {
+        "id": 2985129589
+    },
+    "value222": 1048579,
+    "value223": {
+        "id": 2968351970
+    },
+    "struct core::Layer": 0,
+    "struct core::MeshRenderer": 0,
+    "struct core::Decal": 0,
+    "struct core::Camera": 26,
+    "value224": 4294967295,
+    "value225": 4294967295,
+    "value226": 4294967295,
+    "value227": 4294967295,
+    "value228": 4294967295,
+    "value229": 4294967295,
+    "value230": 4294967295,
+    "value231": 4294967295,
+    "value232": 4294967295,
+    "value233": 4294967295,
+    "value234": 4294967295,
+    "value235": 4294967295,
+    "value236": 4294967295,
+    "value237": 4294967295,
+    "value238": 4294967295,
+    "value239": 4294967295,
+    "value240": 4294967295,
+    "value241": 4294967295,
+    "value242": 4294967295,
+    "value243": 4294967295,
+    "value244": 4294967295,
+    "value245": 4294967295,
+    "value246": 4294967295,
+    "value247": 4294967295,
+    "value248": 4294967295,
+    "value249": 4294967295,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 0,
+    "struct core::LightCommon": 0,
+    "struct core::DirectionalLight": 0,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 26,
+    "value250": 4294967295,
+    "value251": 4294967295,
+    "value252": 4294967295,
+    "value253": 4294967295,
+    "value254": 4294967295,
+    "value255": 4294967295,
+    "value256": 4294967295,
+    "value257": 4294967295,
+    "value258": 4294967295,
+    "value259": 4294967295,
+    "value260": 4294967295,
+    "value261": 4294967295,
+    "value262": 4294967295,
+    "value263": 1048591,
+    "value264": {
+        "isOn": true,
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "textureString": "T_StarOff.dds",
+        "maskingOption": 0
+    },
+    "value265": 1048590,
+    "value266": {
+        "isOn": true,
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "textureString": "T_BG_Reward.dds",
+        "maskingOption": 0
+    },
+    "value267": 4294967295,
+    "value268": 4294967295,
+    "value269": 4294967295,
+    "value270": 3145749,
+    "value271": {
+        "isOn": true,
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "textureString": "T_ReturnBTN_Reward.dds",
+        "maskingOption": 0
+    },
+    "value272": 1048585,
+    "value273": {
+        "isOn": true,
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "textureString": "T_StarOff.dds",
+        "maskingOption": 0
+    },
+    "value274": 4294967295,
+    "value275": 4294967295,
+    "value276": 4294967295,
+    "value277": 1048594,
+    "value278": {
+        "isOn": true,
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "textureString": "T_StarOff.dds",
+        "maskingOption": 0
+    },
+    "value279": 1048580,
+    "value280": {
+        "isOn": true,
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "textureString": "T_StarOff.dds",
+        "maskingOption": 0
+    },
+    "value281": 1048579,
+    "value282": {
+        "isOn": true,
+        "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+        },
+        "textureString": "T_StarOff.dds",
+        "maskingOption": 0
+    },
+    "struct core::UI2D": 26,
+    "value283": 4294967295,
+    "value284": 4294967295,
+    "value285": 4294967295,
+    "value286": 4294967295,
+    "value287": 4294967295,
+    "value288": 4294967295,
+    "value289": 4294967295,
+    "value290": 4294967295,
+    "value291": 4294967295,
+    "value292": 4294967295,
+    "value293": 4294967295,
+    "value294": 4294967295,
+    "value295": 4294967295,
+    "value296": 1048591,
+    "value297": {
+        "position": {
+            "x": -58.0,
+            "y": -198.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 52.0,
+            "y": 50.0
+        },
+        "layerDepth": 0,
+        "isCanvas": false
+    },
+    "value298": 1048590,
+    "value299": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 556.0,
+            "y": 916.0
+        },
+        "layerDepth": 0,
+        "isCanvas": true
+    },
+    "value300": 4294967295,
+    "value301": 4294967295,
+    "value302": 4294967295,
+    "value303": 3145749,
+    "value304": {
+        "position": {
+            "x": 0.0,
+            "y": -415.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 233.0,
+            "y": 32.0
+        },
+        "layerDepth": 0,
+        "isCanvas": false
+    },
+    "value305": 1048585,
+    "value306": {
+        "position": {
+            "x": -116.0,
+            "y": -198.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 52.0,
+            "y": 50.0
+        },
+        "layerDepth": 0,
+        "isCanvas": false
+    },
+    "value307": 4294967295,
+    "value308": 4294967295,
+    "value309": 4294967295,
+    "value310": 1048594,
+    "value311": {
+        "position": {
+            "x": 116.0,
+            "y": -198.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 52.0,
+            "y": 50.0
+        },
+        "layerDepth": 0,
+        "isCanvas": false
+    },
+    "value312": 1048580,
+    "value313": {
+        "position": {
+            "x": 58.0,
+            "y": -198.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 52.0,
+            "y": 50.0
+        },
+        "layerDepth": 0,
+        "isCanvas": false
+    },
+    "value314": 1048579,
+    "value315": {
+        "position": {
+            "x": 0.0,
+            "y": -198.0
+        },
+        "rotation": 0.0,
+        "size": {
+            "x": 52.0,
+            "y": 50.0
+        },
+        "layerDepth": 0,
+        "isCanvas": false
+    },
+    "struct core::UI3D": 0,
+    "struct core::Text": 26,
+    "value316": 4294967295,
+    "value317": 7340064,
+    "value318": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 80.0,
+            "y": 62.5
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "-1000",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value319": 7340063,
+    "value320": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -105.0,
+            "y": 62.5
+        },
+        "size": {
+            "x": 194.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 23.0,
+        "text": "청결도 보너스",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 22.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value321": 7340062,
+    "value322": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 80.0,
+            "y": 12.5
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "-1000",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value323": 7340061,
+    "value324": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -105.0,
+            "y": 12.5
+        },
+        "size": {
+            "x": 194.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 23.0,
+        "text": "위험 수당",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 22.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value325": 7340060,
+    "value326": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 80.0,
+            "y": -87.5
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "-1000",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value327": 1048586,
+    "value328": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -105.0,
+            "y": -37.5
+        },
+        "size": {
+            "x": 194.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 23.0,
+        "text": "낙오 시 교통비",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 22.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value329": 1048582,
+    "value330": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -105.0,
+            "y": -87.5
+        },
+        "size": {
+            "x": 219.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 23.0,
+        "text": "가구 정리 페널티",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 34.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value331": 1048587,
+    "value332": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 80.0,
+            "y": -37.5
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "-1000",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value333": 1048581,
+    "value334": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 260.0
+        },
+        "size": {
+            "x": 350.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "Total : 0%",
+        "textAlign": 4,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value335": 1048577,
+    "value336": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 0.0,
+            "y": 320.0
+        },
+        "size": {
+            "x": 350.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "청소가 잘됐네요~",
+        "textAlign": 4,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value337": 1048593,
+    "value338": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 70.0,
+            "y": 124.0
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "3000",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value339": 1048592,
+    "value340": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -107.5,
+            "y": 124.0
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "총 보수",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 35.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value341": 4294967295,
+    "value342": 4294967295,
+    "value343": 1048589,
+    "value344": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 80.0,
+            "y": -137.5
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "-1000",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value345": 1048588,
+    "value346": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": 80.0,
+            "y": -187.5
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 20.0,
+        "text": "1000",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value347": 1048595,
+    "value348": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -105.0,
+            "y": -137.5
+        },
+        "size": {
+            "x": 247.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 23.0,
+        "text": "쓰레기 정리 보너스",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 49.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value349": 4294967295,
+    "value350": 4294967295,
+    "value351": 1048584,
+    "value352": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -105.0,
+            "y": -187.5
+        },
+        "size": {
+            "x": 210.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 23.0,
+        "text": "조기 완수 보너스",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 31.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value353": 1048583,
+    "value354": {
+        "isOn": true,
+        "color": {
+            "x": 0.8709999918937683,
+            "y": 0.6669999957084656,
+            "z": 0.45100000500679018,
+            "w": 1.0
+        },
+        "position": {
+            "x": 140.0,
+            "y": -408.0
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 26.0,
+        "text": "3$",
+        "textAlign": 7,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value355": 1048596,
+    "value356": {
+        "isOn": true,
+        "color": {
+            "x": 0.5370000004768372,
+            "y": 0.7490000128746033,
+            "z": 0.9179999828338623,
+            "w": 1.0
+        },
+        "position": {
+            "x": -140.0,
+            "y": -408.0
+        },
+        "size": {
+            "x": 200.0,
+            "y": 45.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "fontString": "EliceDigitalBaeum_Bold",
+        "fontSize": 26.0,
+        "text": "인턴",
+        "textAlign": 1,
+        "textBoxAlign": 1,
+        "leftPadding": 0.0,
+        "useUnderline": false,
+        "useStrikeThrough": false
+    },
+    "value357": 4294967295,
+    "value358": 4294967295,
+    "value359": 4294967295,
+    "struct core::Button": 26,
+    "value360": 4294967295,
+    "value361": 4294967295,
+    "value362": 4294967295,
+    "value363": 4294967295,
+    "value364": 4294967295,
+    "value365": 4294967295,
+    "value366": 4294967295,
+    "value367": 4294967295,
+    "value368": 4294967295,
+    "value369": 4294967295,
+    "value370": 4294967295,
+    "value371": 4294967295,
+    "value372": 4294967295,
+    "value373": 4294967295,
+    "value374": 4294967295,
+    "value375": 4294967295,
+    "value376": 4294967295,
+    "value377": 4294967295,
+    "value378": 3145749,
+    "value379": {
+        "interactable": true,
+        "onClickFunctions": [
+            {
+                "functionName": "OnTestSceneChange",
+                "value0": 3,
+                "typeHash": 3983312184,
+                "value": "",
+                "typeHash": 3983312184,
+                "value": "title",
+                "typeHash": 2515107422,
+                "value": "0"
+            }
+        ],
+        "highlightTextureString": "T_ReturnBTNHover_Reward.dds",
+        "pressedTextureString": "",
+        "selectedTextureString": "T_ReturnBTNClicked_Reward.dds",
+        "disabledTextureString": ""
+    },
+    "value380": 4294967295,
+    "value381": 4294967295,
+    "value382": 4294967295,
+    "value383": 4294967295,
+    "value384": 4294967295,
+    "value385": 4294967295,
+    "value386": 4294967295,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 0,
+    "struct core::RenderAttributes": 0,
+    "struct core::Sound": 26,
+    "value387": 1048578,
+    "value388": {
+        "path": "./Resources/Sound\\UI\\UI_PayPage_01.wav",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "minDistance": 1.0,
+        "maxDistance": 1000.0,
+        "isLoop": false,
+        "is3D": false,
+        "isPlaying": false
+    },
+    "value389": 4294967295,
+    "value390": 4294967295,
+    "value391": 4294967295,
+    "value392": 4294967295,
+    "value393": 4294967295,
+    "value394": 4294967295,
+    "value395": 4294967295,
+    "value396": 4294967295,
+    "value397": 4294967295,
+    "value398": 4294967295,
+    "value399": 4294967295,
+    "value400": 4294967295,
+    "value401": 4294967295,
+    "value402": 4294967295,
+    "value403": 4294967295,
+    "value404": 4294967295,
+    "value405": 4294967295,
+    "value406": 4294967295,
+    "value407": 4294967295,
+    "value408": 4294967295,
+    "value409": 4294967295,
+    "value410": 4294967295,
+    "value411": 4294967295,
+    "value412": 4294967295,
+    "value413": 4294967295,
+    "struct core::SoundListener": 0,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct core::PostProcessingVolume": 0,
+    "struct mc::CharacterMovement": 0,
+    "struct mc::Picking": 0,
+    "struct mc::RadialUI": 0,
+    "struct mc::Tool": 0,
+    "struct mc::Inventory": 0,
+    "struct mc::RayCastingInfo": 0,
+    "struct mc::PivotSlot": 0,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 0,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 0,
+    "struct mc::DestroyableTrash": 0,
+    "struct mc::Room": 0,
+    "struct mc::DissolveRenderer": 0,
+    "struct mc::Door": 0,
+    "struct mc::Switch": 0,
+    "struct mc::Flashlight": 0,
+    "struct mc::TrashGenerator": 0,
+    "struct mc::Mop": 0,
+    "struct mc::Sponge": 0,
+    "struct mc::TVTimer": 0,
+    "struct mc::GameManager": 0,
+    "struct mc::GameSettingController": 0,
+    "struct mc::MopStainGenerator": 0,
+    "struct mc::SoundMaterial": 0,
+    "struct mc::VideoRenderer": 0
+}

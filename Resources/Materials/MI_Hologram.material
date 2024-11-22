@@ -1,0 +1,15 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Hologram.material",
+        "material.m_ShaderString": "./Shaders/ForwardTransparency.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Default/defaultwhite.dds"
+                }
+            }
+        ]
+    }
+}

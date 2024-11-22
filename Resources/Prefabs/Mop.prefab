@@ -1,0 +1,170 @@
+{
+    "value0": 1,
+    "value1": 1,
+    "value2": 4196022,
+    "struct core::Name": 1,
+    "value3": 4196022,
+    "value4": {
+        "name": "mop"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 1,
+    "value5": 4196022,
+    "value6": {
+        "position": {
+            "x": 1.0183546543121338,
+            "y": 3.1491236686706545,
+            "z": -9.124367713928223
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::WorldTransform": 1,
+    "value7": 4196022,
+    "value8": {
+        "position": {
+            "x": 1.0183546543121338,
+            "y": 3.1491236686706545,
+            "z": -9.124367713928223
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::Relationship": 1,
+    "value9": 4294967295,
+    "struct core::Rigidbody": 0,
+    "struct core::ColliderCommon": 1,
+    "value10": 4196022,
+    "value11": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material\\default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.12999999523162843
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "struct core::BoxCollider": 1,
+    "value12": 4196022,
+    "value13": {
+        "size": {
+            "x": 0.3100000023841858,
+            "y": 0.05000000074505806,
+            "z": 1.350000023841858
+        }
+    },
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 1,
+    "value14": 4294967295,
+    "struct core::CharacterController": 1,
+    "value15": 4294967295,
+    "struct core::Tag": 1,
+    "value16": 4196022,
+    "value17": {
+        "id": 444797798
+    },
+    "struct core::Layer": 1,
+    "value18": 4196022,
+    "value19": {
+        "mask": 512
+    },
+    "struct core::MeshRenderer": 1,
+    "value20": 4196022,
+    "value21": {
+        "meshString": "SKM_Mop",
+        "materialStrings": [
+            "./Resources/Materials/Broon_v1.material",
+            "./Resources/Materials/Fetlock_v1.material"
+        ],
+        "isOn": true,
+        "receiveShadow": true,
+        "isSkinned": false,
+        "isCulling": true,
+        "canReceivingDecal": true
+    },
+    "struct core::Decal": 1,
+    "value22": 4294967295,
+    "struct core::Camera": 1,
+    "value23": 4294967295,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 1,
+    "value24": 4294967295,
+    "struct core::LightCommon": 1,
+    "value25": 4294967295,
+    "struct core::DirectionalLight": 1,
+    "value26": 4294967295,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 1,
+    "value27": 4294967295,
+    "struct core::UI2D": 1,
+    "value28": 4294967295,
+    "struct core::UI3D": 0,
+    "struct core::Text": 1,
+    "value29": 4294967295,
+    "struct core::Button": 0,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 1,
+    "value30": 4294967295,
+    "struct core::RenderAttributes": 1,
+    "value31": 4196022,
+    "value32": {
+        "flags": 0
+    },
+    "struct core::Sound": 0,
+    "struct core::SoundListener": 1,
+    "value33": 4294967295,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct mc::CharacterMovement": 1,
+    "value34": 4294967295,
+    "struct mc::Picking": 1,
+    "value35": 4294967295,
+    "struct mc::RadialUI": 1,
+    "value36": 4294967295,
+    "struct mc::Tool": 1,
+    "value37": 4196022,
+    "value38": {
+        "type": 2
+    },
+    "struct mc::Inventory": 1,
+    "value39": 4294967295,
+    "struct mc::RayCastingInfo": 1,
+    "value40": 4294967295,
+    "struct mc::PivotSlot": 1,
+    "value41": 4294967295,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 1,
+    "value42": 4196022,
+    "value43": {
+        "maxDurability": 300,
+        "currentDurability": 300
+    },
+    "struct mc::Stain": 1,
+    "value44": 4294967295,
+    "struct mc::SnapAvailable": 0,
+    "struct mc::DestroyableTrash": 0
+}

@@ -1,0 +1,22 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_Cabinet_Glass_02a.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryCabinetGlass.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gReflectionCube",
+                "value": {
+                    "texturePair.Type": 9,
+                    "texturePair.Path": "./Resources/Textures/Default/DarkSky.dds"
+                }
+            },
+            {
+                "key": "gGlassMask",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/OldWest/Shared/Textures/TX_Glass_01a_MASK.dds"
+                }
+            }
+        ]
+    }
+}

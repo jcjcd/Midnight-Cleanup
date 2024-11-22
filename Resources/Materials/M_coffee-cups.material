@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/M_coffee-cups.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryAO.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Kitchen_Dishes/T_coffee-cups_albedo_lighter.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Kitchen_Dishes/T_coffee-cups_normal.dds"
+                }
+            },
+            {
+                "key": "gAO",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Kitchen_Dishes/T_coffee-cups_ao.dds"
+                }
+            }
+        ]
+    }
+}

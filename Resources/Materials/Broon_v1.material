@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/Broon_v1.material",
+        "material.m_ShaderString": "./Shaders/DeferredGeometryORM.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/Dirty_object_textures/mop/mop_V1/T_Mop_L_MI_Broons_01_v1_Blue_BaseColor.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/Dirty_object_textures/mop/mop_V1/T_Mop_L_MI_Broons_01_Blue_v1_Normal.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/interactive_object/Dirty_object_textures/mop/mop_V1/T_Mop_L_MI_Broons_01_Blue_v1_OcclusionRoughnessMetallic.dds"
+                }
+            }
+        ]
+    }
+}

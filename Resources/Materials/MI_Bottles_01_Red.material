@@ -1,0 +1,29 @@
+{
+    "value0": {
+        "material.m_Name": "./Resources/Materials/MI_Bottles_01_Red.material",
+        "material.m_ShaderString": "./Shaders/Bottle_01_Red.hlsl",
+        "material.m_Textures": [
+            {
+                "key": "gAlbedo",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Cleaning_Tools/T_Bottles_01_D.dds"
+                }
+            },
+            {
+                "key": "gNormal",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Cleaning_Tools/T_Bottles_01_N.dds"
+                }
+            },
+            {
+                "key": "gORM",
+                "value": {
+                    "texturePair.Type": 4,
+                    "texturePair.Path": "./Resources/Textures/Cleaning_Tools/T_Bottles_01_AORM.dds"
+                }
+            }
+        ]
+    }
+}

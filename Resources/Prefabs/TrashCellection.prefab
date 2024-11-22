@@ -1,0 +1,675 @@
+{
+    "value0": 7,
+    "value1": 7,
+    "value2": 1048865,
+    "value3": 1715,
+    "value4": 1048864,
+    "value5": 1717,
+    "value6": 1718,
+    "value7": 2097316,
+    "value8": 1716,
+    "struct core::Name": 7,
+    "value9": 1048865,
+    "value10": {
+        "name": "SM_TrashDisposal0"
+    },
+    "value11": 1715,
+    "value12": {
+        "name": "Front"
+    },
+    "value13": 1048864,
+    "value14": {
+        "name": "Back"
+    },
+    "value15": 1717,
+    "value16": {
+        "name": "Right"
+    },
+    "value17": 1718,
+    "value18": {
+        "name": "trigger"
+    },
+    "value19": 2097316,
+    "value20": {
+        "name": "SM_TrashDisposal0_StaticMesh1"
+    },
+    "value21": 1716,
+    "value22": {
+        "name": "Left"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 7,
+    "value23": 1048865,
+    "value24": {
+        "position": {
+            "x": -0.8851779699325562,
+            "y": 2.2375340461730959,
+            "z": -21.86361312866211
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -0.7071067094802856,
+            "z": 0.0,
+            "w": -0.7071068286895752
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value25": 1715,
+    "value26": {
+        "position": {
+            "x": -0.5195598602294922,
+            "y": 0.4639441967010498,
+            "z": -0.02057468891143799
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value27": 1048864,
+    "value28": {
+        "position": {
+            "x": 0.49424171447753909,
+            "y": 0.4640014171600342,
+            "z": -0.020556092262268068
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value29": 1717,
+    "value30": {
+        "position": {
+            "x": 0.0,
+            "y": 0.44746947288513186,
+            "z": -0.7654419541358948
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value31": 1718,
+    "value32": {
+        "position": {
+            "x": 0.0,
+            "y": 0.3735949993133545,
+            "z": 0.00008058547973632813
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value33": 2097316,
+    "value34": {
+        "position": {
+            "x": 0.6144618988037109,
+            "y": 1.1141812801361085,
+            "z": -0.0010845065116882325
+        },
+        "rotation": {
+            "x": 2.9802322387695315e-8,
+            "y": 2.9802322387695315e-8,
+            "z": -0.6660167574882507,
+            "w": 0.7459367513656616
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value35": 1716,
+    "value36": {
+        "position": {
+            "x": 0.0,
+            "y": 0.447498083114624,
+            "z": 0.7650036215782166
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::WorldTransform": 7,
+    "value37": 1048865,
+    "value38": {
+        "position": {
+            "x": -0.8851779699325562,
+            "y": 2.2375340461730959,
+            "z": -21.86361312866211
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -0.7071067094802856,
+            "z": 0.0,
+            "w": -0.7071068286895752
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value39": 1715,
+    "value40": {
+        "position": {
+            "x": -0.9057527780532837,
+            "y": 2.7014782428741457,
+            "z": -21.344053268432618
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -0.7071067094802856,
+            "z": 0.0,
+            "w": -0.7071068286895752
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value41": 1048864,
+    "value42": {
+        "position": {
+            "x": -0.9057340025901794,
+            "y": 2.70153546333313,
+            "z": -22.35785484313965
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -0.7071067094802856,
+            "z": 0.0,
+            "w": -0.7071068286895752
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value43": 1717,
+    "value44": {
+        "position": {
+            "x": -1.6506198644638062,
+            "y": 2.6850035190582277,
+            "z": -21.86361312866211
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -0.7071067094802856,
+            "z": 0.0,
+            "w": -0.7071068286895752
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value45": 1718,
+    "value46": {
+        "position": {
+            "x": -0.8850973844528198,
+            "y": 2.61112904548645,
+            "z": -21.86361312866211
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -0.7071067094802856,
+            "z": 0.0,
+            "w": -0.7071068286895752
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value47": 2097316,
+    "value48": {
+        "position": {
+            "x": -0.8862623572349548,
+            "y": 3.351715326309204,
+            "z": -22.47807502746582
+        },
+        "rotation": {
+            "x": -0.47094494104385378,
+            "y": -0.5274568796157837,
+            "z": 0.47094497084617617,
+            "w": -0.5274569988250732
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "value49": 1716,
+    "value50": {
+        "position": {
+            "x": -0.12017440795898438,
+            "y": 2.6850321292877199,
+            "z": -21.86361312866211
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -0.7071067094802856,
+            "z": 0.0,
+            "w": -0.7071068286895752
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "struct core::Relationship": 7,
+    "value51": 1048865,
+    "value52": {
+        "parent": 4294967295,
+        "children": [
+            1718,
+            1717,
+            1716,
+            1715,
+            1048864,
+            2097316
+        ]
+    },
+    "value53": 1715,
+    "value54": {
+        "parent": 1048865,
+        "children": []
+    },
+    "value55": 1048864,
+    "value56": {
+        "parent": 1048865,
+        "children": []
+    },
+    "value57": 1717,
+    "value58": {
+        "parent": 1048865,
+        "children": []
+    },
+    "value59": 1718,
+    "value60": {
+        "parent": 1048865,
+        "children": []
+    },
+    "value61": 2097316,
+    "value62": {
+        "parent": 1048865,
+        "children": []
+    },
+    "value63": 1716,
+    "value64": {
+        "parent": 1048865,
+        "children": []
+    },
+    "struct core::Rigidbody": 0,
+    "struct core::ColliderCommon": 7,
+    "value65": 1048865,
+    "value66": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material/default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "value67": 1715,
+    "value68": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material/default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "value69": 1048864,
+    "value70": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material/default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "value71": 1717,
+    "value72": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material/default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "value73": 1718,
+    "value74": {
+        "isTrigger": true,
+        "materialName": "./Resources/Physic Material/default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "value75": 2097316,
+    "value76": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material/default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "value77": 1716,
+    "value78": {
+        "isTrigger": false,
+        "materialName": "./Resources/Physic Material/default.pmaterial",
+        "center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "contactOffset": 0.10000000149011612
+    },
+    "struct core::BoxCollider": 7,
+    "value79": 4294967295,
+    "value80": 1715,
+    "value81": {
+        "size": {
+            "x": 0.05000000074505806,
+            "y": 0.699999988079071,
+            "z": 1.600000023841858
+        }
+    },
+    "value82": 1048864,
+    "value83": {
+        "size": {
+            "x": 0.05000000074505806,
+            "y": 0.699999988079071,
+            "z": 1.600000023841858
+        }
+    },
+    "value84": 1717,
+    "value85": {
+        "size": {
+            "x": 1.0,
+            "y": 0.699999988079071,
+            "z": 0.05000000074505806
+        }
+    },
+    "value86": 1718,
+    "value87": {
+        "size": {
+            "x": 1.0,
+            "y": 0.7900000214576721,
+            "z": 1.5
+        }
+    },
+    "value88": 4294967295,
+    "value89": 1716,
+    "value90": {
+        "size": {
+            "x": 1.0,
+            "y": 0.699999988079071,
+            "z": 0.05000000074505806
+        }
+    },
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 7,
+    "value91": 1048865,
+    "value92": {
+        "convex": false,
+        "cookingOptions": 0
+    },
+    "value93": 4294967295,
+    "value94": 4294967295,
+    "value95": 4294967295,
+    "value96": 4294967295,
+    "value97": 2097316,
+    "value98": {
+        "convex": false,
+        "cookingOptions": 0
+    },
+    "value99": 4294967295,
+    "struct core::CharacterController": 7,
+    "value100": 4294967295,
+    "value101": 4294967295,
+    "value102": 4294967295,
+    "value103": 4294967295,
+    "value104": 4294967295,
+    "value105": 4294967295,
+    "value106": 4294967295,
+    "struct core::Tag": 7,
+    "value107": 4294967295,
+    "value108": 4294967295,
+    "value109": 4294967295,
+    "value110": 4294967295,
+    "value111": 1718,
+    "value112": {
+        "id": 1390914531
+    },
+    "value113": 4294967295,
+    "value114": 4294967295,
+    "struct core::Layer": 0,
+    "struct core::MeshRenderer": 7,
+    "value115": 1048865,
+    "value116": {
+        "meshString": "SM_trashcollection_01_L",
+        "materialStrings": [
+            "./Resources/Materials/M_collection_box.material"
+        ],
+        "isOn": true,
+        "receiveShadow": true,
+        "isSkinned": false,
+        "isCulling": false,
+        "canReceivingDecal": true
+    },
+    "value117": 4294967295,
+    "value118": 4294967295,
+    "value119": 4294967295,
+    "value120": 4294967295,
+    "value121": 2097316,
+    "value122": {
+        "meshString": "SM_trashcollection_02_L",
+        "materialStrings": [
+            "./Resources/Materials/M_collection_box.material"
+        ],
+        "isOn": true,
+        "receiveShadow": true,
+        "isSkinned": false,
+        "isCulling": false,
+        "canReceivingDecal": true
+    },
+    "value123": 4294967295,
+    "struct core::Decal": 0,
+    "struct core::Camera": 7,
+    "value124": 4294967295,
+    "value125": 4294967295,
+    "value126": 4294967295,
+    "value127": 4294967295,
+    "value128": 4294967295,
+    "value129": 4294967295,
+    "value130": 4294967295,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 7,
+    "value131": 4294967295,
+    "value132": 4294967295,
+    "value133": 4294967295,
+    "value134": 4294967295,
+    "value135": 4294967295,
+    "value136": 4294967295,
+    "value137": 4294967295,
+    "struct core::LightCommon": 7,
+    "value138": 4294967295,
+    "value139": 4294967295,
+    "value140": 4294967295,
+    "value141": 4294967295,
+    "value142": 4294967295,
+    "value143": 4294967295,
+    "value144": 4294967295,
+    "struct core::DirectionalLight": 7,
+    "value145": 4294967295,
+    "value146": 4294967295,
+    "value147": 4294967295,
+    "value148": 4294967295,
+    "value149": 4294967295,
+    "value150": 4294967295,
+    "value151": 4294967295,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 7,
+    "value152": 4294967295,
+    "value153": 4294967295,
+    "value154": 4294967295,
+    "value155": 4294967295,
+    "value156": 4294967295,
+    "value157": 4294967295,
+    "value158": 4294967295,
+    "struct core::UI2D": 7,
+    "value159": 4294967295,
+    "value160": 4294967295,
+    "value161": 4294967295,
+    "value162": 4294967295,
+    "value163": 4294967295,
+    "value164": 4294967295,
+    "value165": 4294967295,
+    "struct core::UI3D": 0,
+    "struct core::Text": 7,
+    "value166": 4294967295,
+    "value167": 4294967295,
+    "value168": 4294967295,
+    "value169": 4294967295,
+    "value170": 4294967295,
+    "value171": 4294967295,
+    "value172": 4294967295,
+    "struct core::Button": 0,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 0,
+    "struct core::RenderAttributes": 0,
+    "struct core::Sound": 0,
+    "struct core::SoundListener": 7,
+    "value173": 4294967295,
+    "value174": 4294967295,
+    "value175": 4294967295,
+    "value176": 4294967295,
+    "value177": 4294967295,
+    "value178": 4294967295,
+    "value179": 4294967295,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct mc::CharacterMovement": 7,
+    "value180": 4294967295,
+    "value181": 4294967295,
+    "value182": 4294967295,
+    "value183": 4294967295,
+    "value184": 4294967295,
+    "value185": 4294967295,
+    "value186": 4294967295,
+    "struct mc::Picking": 7,
+    "value187": 4294967295,
+    "value188": 4294967295,
+    "value189": 4294967295,
+    "value190": 4294967295,
+    "value191": 4294967295,
+    "value192": 4294967295,
+    "value193": 4294967295,
+    "struct mc::RadialUI": 7,
+    "value194": 4294967295,
+    "value195": 4294967295,
+    "value196": 4294967295,
+    "value197": 4294967295,
+    "value198": 4294967295,
+    "value199": 4294967295,
+    "value200": 4294967295,
+    "struct mc::Tool": 0,
+    "struct mc::Inventory": 7,
+    "value201": 4294967295,
+    "value202": 4294967295,
+    "value203": 4294967295,
+    "value204": 4294967295,
+    "value205": 4294967295,
+    "value206": 4294967295,
+    "value207": 4294967295,
+    "struct mc::RayCastingInfo": 7,
+    "value208": 4294967295,
+    "value209": 4294967295,
+    "value210": 4294967295,
+    "value211": 4294967295,
+    "value212": 4294967295,
+    "value213": 4294967295,
+    "value214": 4294967295,
+    "struct mc::PivotSlot": 7,
+    "value215": 4294967295,
+    "value216": 4294967295,
+    "value217": 4294967295,
+    "value218": 4294967295,
+    "value219": 4294967295,
+    "value220": 4294967295,
+    "value221": 4294967295,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 0,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 0,
+    "struct mc::DestroyableTrash": 0
+}

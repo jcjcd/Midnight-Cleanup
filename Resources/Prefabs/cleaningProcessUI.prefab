@@ -1,0 +1,616 @@
+{
+    "value0": 14,
+    "value1": 14,
+    "value2": 0,
+    "value3": 13,
+    "value4": 12,
+    "value5": 11,
+    "value6": 10,
+    "value7": 9,
+    "value8": 8,
+    "value9": 7,
+    "value10": 6,
+    "value11": 5,
+    "value12": 4,
+    "value13": 3,
+    "value14": 2,
+    "value15": 1,
+    "struct core::Name": 14,
+    "value16": 0,
+    "value17": {
+        "name": "Cleaning Process UI"
+    },
+    "value18": 13,
+    "value19": {
+        "name": "Sponge Stain Total"
+    },
+    "value20": 12,
+    "value21": {
+        "name": "Sponge Stain Current"
+    },
+    "value22": 11,
+    "value23": {
+        "name": "Organizing Mess Total"
+    },
+    "value24": 10,
+    "value25": {
+        "name": "Organizing Mess Current"
+    },
+    "value26": 9,
+    "value27": {
+        "name": "Trash Total"
+    },
+    "value28": 8,
+    "value29": {
+        "name": "Trash Current"
+    },
+    "value30": 7,
+    "value31": {
+        "name": "Mop Stain Total"
+    },
+    "value32": 6,
+    "value33": {
+        "name": "Mop Stain Current"
+    },
+    "value34": 5,
+    "value35": {
+        "name": "Mop Stain"
+    },
+    "value36": 4,
+    "value37": {
+        "name": "Organizing Mess"
+    },
+    "value38": 3,
+    "value39": {
+        "name": "Sponge Stain"
+    },
+    "value40": 2,
+    "value41": {
+        "name": "Cleaning Progress"
+    },
+    "value42": 1,
+    "value43": {
+        "name": "Trash"
+    },
+    "struct core::Transform": 0,
+    "struct core::LocalTransform": 0,
+    "struct core::WorldTransform": 0,
+    "struct core::Relationship": 14,
+    "value44": 0,
+    "value45": {
+        "parent": 4294967295,
+        "children": [
+            5,
+            1,
+            4,
+            3,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "value46": 13,
+    "value47": {
+        "parent": 0,
+        "children": []
+    },
+    "value48": 12,
+    "value49": {
+        "parent": 0,
+        "children": []
+    },
+    "value50": 11,
+    "value51": {
+        "parent": 0,
+        "children": []
+    },
+    "value52": 10,
+    "value53": {
+        "parent": 0,
+        "children": []
+    },
+    "value54": 9,
+    "value55": {
+        "parent": 0,
+        "children": []
+    },
+    "value56": 8,
+    "value57": {
+        "parent": 0,
+        "children": []
+    },
+    "value58": 7,
+    "value59": {
+        "parent": 0,
+        "children": []
+    },
+    "value60": 6,
+    "value61": {
+        "parent": 0,
+        "children": []
+    },
+    "value62": 5,
+    "value63": {
+        "parent": 0,
+        "children": []
+    },
+    "value64": 4,
+    "value65": {
+        "parent": 0,
+        "children": []
+    },
+    "value66": 3,
+    "value67": {
+        "parent": 0,
+        "children": []
+    },
+    "value68": 2,
+    "value69": {
+        "parent": 0,
+        "children": []
+    },
+    "value70": 1,
+    "value71": {
+        "parent": 0,
+        "children": []
+    },
+    "struct core::Rigidbody": 0,
+    "struct core::ColliderCommon": 0,
+    "struct core::BoxCollider": 0,
+    "struct core::SphereCollider": 0,
+    "struct core::CapsuleCollider": 0,
+    "struct core::MeshCollider": 0,
+    "struct core::CharacterController": 0,
+    "struct core::Tag": 14,
+    "value72": 0,
+    "value73": {
+        "id": 2327761480
+    },
+    "value74": 4294967295,
+    "value75": 4294967295,
+    "value76": 4294967295,
+    "value77": 4294967295,
+    "value78": 4294967295,
+    "value79": 4294967295,
+    "value80": 4294967295,
+    "value81": 4294967295,
+    "value82": 4294967295,
+    "value83": 4294967295,
+    "value84": 4294967295,
+    "value85": 4294967295,
+    "value86": 4294967295,
+    "struct core::Layer": 0,
+    "struct core::MeshRenderer": 0,
+    "struct core::Decal": 0,
+    "struct core::Camera": 0,
+    "struct core::FreeFly": 0,
+    "struct core::Animator": 0,
+    "struct core::LightCommon": 0,
+    "struct core::DirectionalLight": 0,
+    "struct core::PointLight": 0,
+    "struct core::SpotLight": 0,
+    "struct core::UICommon": 0,
+    "struct core::UI2D": 0,
+    "struct core::UI3D": 0,
+    "struct core::Text": 14,
+    "value87": 4294967295,
+    "value88": 13,
+  "value89": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 1050.0,
+      "y": -310.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "40",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value90": 12,
+  "value91": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 980.0,
+      "y": -310.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "00",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value92": 11,
+  "value93": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 1050.0,
+      "y": -190.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "40",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value94": 10,
+  "value95": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 980.0,
+      "y": -190.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "00",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value96": 9,
+  "value97": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 1050.0,
+      "y": -370.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "40",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value98": 8,
+  "value99": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 980.0,
+      "y": -370.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "00",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value100": 7,
+  "value101": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 1050.0,
+      "y": -250.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "40",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value102": 6,
+  "value103": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 980.0,
+      "y": -250.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "00",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value104": 5,
+  "value105": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 760.0,
+      "y": -250.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "얼룩 지우기             /",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value106": 4,
+  "value107": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 760.0,
+      "y": -190.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "물건 정리하기         /",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value108": 3,
+  "value109": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 760.0,
+      "y": -310.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "낙서 지우기             /",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value110": 2,
+  "value111": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 750.0,
+      "y": -450.0
+    },
+    "size": {
+      "x": 300.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 32.0,
+    "text": "청소 진척도",
+    "textAlign": 4,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "value112": 1,
+  "value113": {
+    "isOn": false,
+    "color": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "position": {
+      "x": 760.0,
+      "y": -370.0
+    },
+    "size": {
+      "x": 340.0,
+      "y": 100.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "fontString": "EliceDigitalBaeum_Bold",
+    "fontSize": 26.0,
+    "text": "쓰레기 버리기         /",
+    "textAlign": 1,
+    "textBoxAlign": 1,
+    "leftPadding": 0.0,
+    "useUnderline": false,
+    "useStrikeThrough": false
+  },
+    "struct core::Button": 0,
+    "struct core::LightMap": 0,
+    "struct core::NavMeshSettings": 0,
+    "struct core::Agent": 0,
+    "struct core::ParticleSystem": 0,
+    "struct core::RenderAttributes": 0,
+    "struct core::Sound": 0,
+    "struct core::SoundListener": 0,
+    "struct core::ComboBox": 0,
+    "struct core::Slider": 0,
+    "struct core::CheckBox": 0,
+    "struct mc::CharacterMovement": 0,
+    "struct mc::Picking": 0,
+    "struct mc::RadialUI": 0,
+    "struct mc::Tool": 0,
+    "struct mc::Inventory": 0,
+    "struct mc::RayCastingInfo": 0,
+    "struct mc::PivotSlot": 0,
+    "struct mc::WaterBucket": 0,
+    "struct mc::Durability": 0,
+    "struct mc::Stain": 0,
+    "struct mc::SnapAvailable": 0,
+    "struct mc::DestroyableTrash": 0
+}
