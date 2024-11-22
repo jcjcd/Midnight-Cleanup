@@ -34,14 +34,16 @@
 이 프로젝트를 빌드하기 위해 추가적으로 필요한 파일을 다음 링크에서 다운로드받을 수 있습니다:
 
 - [추가 파일 다운로드 링크](https://1drv.ms/f/s!AoSz5579eQ6GhymDO5ysipqE9MSd?e=Yc31Me)
+- [Microsoft DirectX SDK Installer 다운로드](https://www.microsoft.com/en-US/download/details.aspx?id=6812&msockid=3062152011ea654904ea003210c36437)
 
 ### 파일 설정 방법
 1. 위 링크에서 제공되는 파일을 다운로드합니다.
 2. 다운로드한 파일을 프로젝트 폴더 내 적절한 위치에 복사합니다:
    - **MT_Opening.mp4**: `Resources/Video` 폴더 내에 위치하게 합니다.
    - **dll.zip** : 압축 해제, 솔루션 빌드 후 `x64` 폴더 내 `Debug` 혹은 `Release` 폴더 안에 복사 붙여넣기 합니다.
-3. 파일 복사 후 프로젝트를 다시 빌드하여 실행합니다.
-
+3. Microsoft DirectX SDK Installer를 설치합니다. 설치 후 시스템을 재부팅하는 것이 권장됩니다.
+4. 모든 파일 설정 후 프로젝트를 다시 빌드하여 실행합니다.
+5. 
 ---
 
 ## 🛠️ Nuget 패키지 복원
